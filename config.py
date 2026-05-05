@@ -21,6 +21,12 @@ CITY_PRIORITY = {
     "hyderabad": 3,
     "hyd": 3,
     "pune": 4,
+    "remote": 5,
+    "wfh": 5,
+    "work from home": 5,
+    "anywhere in india": 5,
+    "anywhere": 5,
+    "india": 5,
 }
 
 # Experience: keep jobs whose minimum requirement is <= this value (years)

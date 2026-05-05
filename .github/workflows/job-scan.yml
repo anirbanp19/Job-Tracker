@@ -25,7 +25,6 @@ jobs:
         run: |
           pip install --upgrade pip
           pip install -r requirements.txt
-          python -m playwright install chromium --with-deps
 
       - name: Restore resume from secret (if used)
         # Only runs if you opted to keep the PDF out of the repo and stored

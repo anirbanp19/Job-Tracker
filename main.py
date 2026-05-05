@@ -2,7 +2,6 @@
 import config
 from resume_parser import extract_resume_text
 from scraper_jobspy import scrape_jobspy_all
-from scraper_naukri import scrape_naukri_all
 from filters import filter_by_location, filter_by_title, filter_by_experience
 from engineering_filter import filter_engineering_roles
 from deduper import dedupe_jobs
@@ -18,12 +17,12 @@ def main():
     print("=" * 64)
 
     # 1) Resume
-    print(f"\n[1/6] Reading resume: {config.RESUME_PATH}")
+    print(f"\n[1/5] Reading resume: {config.RESUME_PATH}")
     resume_text = extract_resume_text(config.RESUME_PATH)
     print(f"      Loaded {len(resume_text)} chars")
 
     # 2) Scrape
-    print("\n[2/6] Scraping LinkedIn + Indeed (JobSpy)…")
+    print("\n[2/5] Scraping LinkedIn + Indeed (JobSpy)…")
     jobspy_jobs = scrape_jobspy_all(
         config.ROLE_KEYWORDS,
         config.TARGET_LOCATIONS,
@@ -32,24 +31,17 @@ def main():
     )
     print(f"      JobSpy returned {len(jobspy_jobs)} jobs")
 
-    print("\n[3/6] Scraping Naukri (Playwright)…")
-    naukri_jobs = scrape_naukri_all(
-        config.ROLE_KEYWORDS,
-        config.TARGET_LOCATIONS,
-        config.DAYS_OLD,
-        config.NAUKRI_MAX_PAGES,
-    )
-    print(f"      Naukri returned {len(naukri_jobs)} jobs")
-
-    all_jobs = jobspy_jobs + naukri_jobs
+    all_jobs = jobspy_jobs
     print(f"      Total raw: {len(all_jobs)}")
 
     # 3) Filter
-    print("\n[4/6] Filtering…")
+    print("\n[3/5] Filtering…")
     all_jobs = filter_by_title(all_jobs)
     print(f"      After title filter:      {len(all_jobs)}")
     all_jobs = filter_by_location(all_jobs)
     print(f"      After location filter:   {len(all_jobs)}")
+    remote_count = sum(1 for j in all_jobs if j.get("city_priority") == 5)
+    print(f"      ({remote_count} of which are remote/WFH)")
     exp_before = len(all_jobs)
     all_jobs = filter_by_experience(all_jobs)
     print(f"      After experience filter: {len(all_jobs)}")
@@ -74,7 +66,7 @@ def main():
         return
 
     # 5) Score
-    print(f"\n[5/6] Scoring {len(new_jobs)} jobs with Groq…")
+    print(f"\n[4/5] Scoring {len(new_jobs)} jobs with Groq…")
     scored_new = score_all(resume_text, new_jobs)
 
     today = date.today().isoformat()
@@ -87,7 +79,7 @@ def main():
     save_history(config.HISTORY_FILE, history)
 
     # 6) Excel
-    print("\n[6/6] Writing Excel…")
+    print("\n[5/5] Writing Excel…")
     out_path = write_excel(scored, config.STRONG_MATCH_THRESHOLD, config.OUTPUT_DIR)
 
     strong = sum(1 for j in scored if compute_combined_score(j.get("ats_score", 0), j.get("fit_score", 0)) >= config.STRONG_MATCH_THRESHOLD)

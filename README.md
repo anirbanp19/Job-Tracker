@@ -1,6 +1,6 @@
 # Job Tracker — PM/APM auto-scan
 
-Scrapes LinkedIn, Indeed, and Naukri weekly for Product Manager and Associate Product Manager roles in Bengaluru / Kolkata / Hyderabad / Pune, scores each one against your resume using Groq + GPT-OSS 120B (open-weight reasoning model from OpenAI), and produces an Excel file with one-click apply hyperlinks.
+Scrapes LinkedIn and Indeed weekly for Product Manager and Associate Product Manager roles in Bengaluru / Kolkata / Hyderabad / Pune, scores each one against your resume using Groq + GPT-OSS 120B (open-weight reasoning model from OpenAI), and produces an Excel file with one-click apply hyperlinks.
 
 ## What you get
 
@@ -108,7 +108,7 @@ Open `config.py` and edit:
 | `ROLE_KEYWORDS` | Search terms used on each portal |
 | `EXCLUDE_TITLE_KEYWORDS` | Substrings that disqualify a title |
 | `TARGET_LOCATIONS` | Cities to search |
-| `CITY_PRIORITY` | Lower number ranks higher in the output sort |
+| `CITY_PRIORITY` | Lower number ranks higher in the output sort. Priority 5 covers remote/WFH/anywhere-in-India listings. They appear in the same sheets as city-based jobs but rank below all 4 cities. AI reasoning column will flag any geo-mismatched remote roles (e.g., remote-USA-only). |
 | `MAX_YEARS_EXPERIENCE` | Drop listings whose minimum requirement exceeds this |
 | `DAYS_OLD` | Recency window |
 | `STRONG_MATCH_THRESHOLD` | ATS Score cutoff between sheet 1 and sheet 2 |
@@ -137,6 +137,12 @@ Open `config.py` and edit:
 - The output file `output/jobs_master.xlsx` overwrites itself on every run and contains the FULL history of all jobs ever scored, not just the jobs from today's run.
 - **Updating your resume:** If you update your resume, delete the `output/scored_jobs.json` file. This forces the tracker to perform a full re-score of all jobs on the next run.
 - **Manual vs. Automated runs:** If you plan to run the script manually on your Mac while the GitHub Action also runs daily in the cloud, be sure to run `git pull` before your local run to fetch the latest `scored_jobs.json` history. After your local run finishes, run `git push` so the cloud gets your newly cached jobs.
+
+---
+
+## Why Naukri isn't scraped
+
+Naukri has Cloudflare + reCAPTCHA fortification that blocks all automated access — Playwright headless browsers, internal API endpoints, and direct HTTP requests all get HTTP 406 'recaptcha required' or are silently blocked. We tested Playwright (DOM scraping), reverse-engineered the internal /jobapi/v3/search endpoint, and both fail. The scraper_naukri.py file is preserved (not called from main.py) in case Naukri's posture changes later. Recommendation: bookmark naukri.com and manually browse for 5 minutes per day to cover any roles unique to Naukri.
 
 ---
 
