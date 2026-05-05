@@ -1,0 +1,59 @@
+name: Daily Job Scan
+
+on:
+  schedule:
+    # Monday 04:00 UTC = 09:30 IST
+    - cron: '0 4 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          python -m playwright install chromium --with-deps
+
+      - name: Restore resume from secret (if used)
+        # Only runs if you opted to keep the PDF out of the repo and stored
+        # it as a base64 secret called RESUME_PDF_BASE64. Otherwise no-op.
+        if: ${{ env.RESUME_PDF_BASE64 != '' }}
+        env:
+          RESUME_PDF_BASE64: ${{ secrets.RESUME_PDF_BASE64 }}
+        run: |
+          mkdir -p resume
+          echo "$RESUME_PDF_BASE64" | base64 -d > resume/resume.pdf
+
+      - name: Run job scan
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python main.py
+
+      - name: Upload Excel as workflow artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: jobs-${{ github.run_id }}
+          path: output/*.xlsx
+          retention-days: 30
+
+      - name: Commit Excel back to repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/*.xlsx output/scored_jobs.json 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore: daily job scan $(date +%Y-%m-%d)"
+          git push || true

@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.idea/
+.vscode/
+*.log
+.DS_Store
+
+# If you don't want to commit your resume to the repo (e.g., public repo),
+# uncomment the line below and use the GH Actions secret method (see README).
+# resume/resume.pdf
+.venv/
+__pycache__/
