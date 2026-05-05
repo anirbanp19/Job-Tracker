@@ -955,5 +955,71 @@
     ],
     "date_found": "2026-05-05",
     "date_last_seen": "2026-05-05"
+  },
+  "zemoso technologies::product manager": {
+    "company": "Zemoso Technologies",
+    "title": "Product Manager",
+    "ats_score": 0,
+    "fit_score": 0,
+    "reasoning": "scoring failed after 3 attempts",
+    "missing_keywords": [],
+    "fit_flags": [],
+    "date_found": "2026-05-05",
+    "date_last_seen": "2026-05-05"
+  },
+  "invoicecloud, inc.::product owner \u2013 payments": {
+    "company": "InvoiceCloud, Inc.",
+    "title": "Product Owner \u2013 Payments",
+    "ats_score": 0,
+    "fit_score": 0,
+    "reasoning": "scoring failed after 3 attempts",
+    "missing_keywords": [],
+    "fit_flags": [],
+    "date_found": "2026-05-05",
+    "date_last_seen": "2026-05-05"
+  },
+  "hire feed::product manager (remote)": {
+    "company": "Hire Feed",
+    "title": "Product Manager (Remote)",
+    "ats_score": 0,
+    "fit_score": 0,
+    "reasoning": "scoring failed after 3 attempts",
+    "missing_keywords": [],
+    "fit_flags": [],
+    "date_found": "2026-05-05",
+    "date_last_seen": "2026-05-05"
+  },
+  "citi::vp- custody tax product manager": {
+    "company": "Citi",
+    "title": "VP- Custody Tax Product Manager",
+    "ats_score": 0,
+    "fit_score": 0,
+    "reasoning": "scoring failed after 3 attempts",
+    "missing_keywords": [],
+    "fit_flags": [],
+    "date_found": "2026-05-05",
+    "date_last_seen": "2026-05-05"
+  },
+  "altimate ai::product manager": {
+    "company": "Altimate AI",
+    "title": "Product Manager",
+    "ats_score": 0,
+    "fit_score": 0,
+    "reasoning": "scoring failed after 3 attempts",
+    "missing_keywords": [],
+    "fit_flags": [],
+    "date_found": "2026-05-05",
+    "date_last_seen": "2026-05-05"
+  },
+  "hsbc::product owner - transformation": {
+    "company": "HSBC",
+    "title": "Product Owner - Transformation",
+    "ats_score": 0,
+    "fit_score": 0,
+    "reasoning": "scoring failed after 3 attempts",
+    "missing_keywords": [],
+    "fit_flags": [],
+    "date_found": "2026-05-05",
+    "date_last_seen": "2026-05-05"
   }
 }
