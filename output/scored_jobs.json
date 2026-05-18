@@ -191,7 +191,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-05",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "aptita::product manager": {
     "company": "Aptita",
@@ -258,7 +258,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-05",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "target::product manager": {
     "company": "Target",
@@ -2017,7 +2017,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-05-08",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "amazon::product manager-tech iii, finance automation": {
     "company": "Amazon",
@@ -4593,7 +4593,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-13",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "zinnia::product manager ii - compliance workflow automation": {
     "company": "Zinnia",
@@ -6487,7 +6487,7 @@
       "domain_mismatch"
     ],
     "date_found": "2026-05-16",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "penguin ai::product owner - payment integrity": {
     "company": "Penguin Ai",
@@ -6574,7 +6574,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-16",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "trinet::product manager": {
     "company": "TriNet",
@@ -6598,7 +6598,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-05-16",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "electronic arts (ea)::knowledge product manager": {
     "company": "Electronic Arts (EA)",
@@ -6624,7 +6624,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-16",
-    "date_last_seen": "2026-05-16"
+    "date_last_seen": "2026-05-18"
   },
   "hsbc::digital product manager": {
     "company": "HSBC",
@@ -6645,7 +6645,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-05-16",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "curefit::product manager 2 - operations excellence": {
     "company": "Curefit",
@@ -6738,7 +6738,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-16",
-    "date_last_seen": "2026-05-16"
+    "date_last_seen": "2026-05-18"
   },
   "target::product manager - inventory purchasing and positioning": {
     "company": "Target",
@@ -6762,7 +6762,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-16",
-    "date_last_seen": "2026-05-16"
+    "date_last_seen": "2026-05-18"
   },
   "accurate background::product owner": {
     "company": "Accurate Background",
@@ -6839,7 +6839,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-17",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "virtusa::wealth management product manager": {
     "company": "Virtusa",
@@ -6889,7 +6889,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-17",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "hackajob::vice president - product manager - machine learning & intelligent operations": {
     "company": "hackajob",
@@ -6937,7 +6937,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-17",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "idyllic services::product owner": {
     "company": "Idyllic Services",
@@ -6987,7 +6987,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-17",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "clari5 - a perfios company::aml product manager \u2013 kyc, transaction monitoring, analytics, reporting": {
     "company": "Clari5 - A Perfios Company",
@@ -7010,7 +7010,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-17",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
   },
   "hackajob::product owner, data": {
     "company": "hackajob",
@@ -7033,6 +7033,263 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-17",
-    "date_last_seen": "2026-05-17"
+    "date_last_seen": "2026-05-18"
+  },
+  "ultisource::product owner / product manager": {
+    "company": "ULTISOURCE",
+    "title": "Product Owner / Product Manager",
+    "ats_score": 25,
+    "fit_score": 20,
+    "reasoning": "Hard rules apply because the JD requires 6\u201110 years experience, exceeding the candidate's 4 years, so both scores are forced below 30; the resume also lacks key fintech terminology such as \"Digital Banking\" and \"Backlog Management\".",
+    "missing_keywords": [
+      "Digital Banking",
+      "User Story Creation",
+      "Backlog Management",
+      "Release Planning",
+      "Roadmap Acceleration",
+      "Financial Services domain",
+      "OKRs",
+      "A/B testing",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-05-18",
+    "date_last_seen": "2026-05-18"
+  },
+  "pice\u00ae::product manager - credit flow": {
+    "company": "Pice\u00ae",
+    "title": "Product Manager - Credit Flow",
+    "ats_score": 68,
+    "fit_score": 55,
+    "reasoning": "The candidate meets the 1\u2011year minimum (has 4 years) so hard rules do not penalize; however, key fintech/credit keywords are missing, lowering the ATS score. The biggest gap is lack of credit\u2011specific experience such as KYC and API integration.",
+    "missing_keywords": [
+      "API integration",
+      "KYC flows",
+      "lender rules",
+      "credit disbursal",
+      "Mixpanel",
+      "Confluence",
+      "Fintech payments"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-05-18",
+    "date_last_seen": "2026-05-18"
+  },
+  "aspire::product manager - local payments": {
+    "company": "Aspire",
+    "title": "Product Manager - Local Payments",
+    "ats_score": 78,
+    "fit_score": 64,
+    "reasoning": "The resume meets the 4\u2011year minimum and location requirement, and contains many JD keywords, yielding a strong ATS score; however, the candidate lacks direct payments and fintech experience, lowering the fit score.",
+    "missing_keywords": [
+      "payments",
+      "transaction management",
+      "risk management",
+      "regulatory compliance",
+      "A/B testing",
+      "OKRs",
+      "marketplace dynamics"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-05-18",
+    "date_last_seen": "2026-05-18"
+  },
+  "optum india::technical product manager - python or sql": {
+    "company": "Optum India",
+    "title": "Technical Product Manager - Python or SQL",
+    "ats_score": 65,
+    "fit_score": 55,
+    "reasoning": "Hard rules are satisfied (4 years experience, no senior title, no >4 year requirement). ATS score is moderate due to good keyword overlap but missing key tools like Python and advanced Excel; fit score is limited by domain mismatch despite strong SaaS and GenAI experience.",
+    "missing_keywords": [
+      "Python",
+      "advanced Excel",
+      "pivot tables",
+      "statistical analysis",
+      "A/B testing",
+      "OKRs"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-05-18",
+    "date_last_seen": "2026-05-18"
+  },
+  "advance auto parts india (india innovation center)::it product manager (workday functional consultant)": {
+    "company": "Advance Auto Parts India (India Innovation Center)",
+    "title": "IT Product Manager (Workday Functional Consultant)",
+    "ats_score": 15,
+    "fit_score": 30,
+    "reasoning": "Hard rules pass (4 years experience, no senior title, no >4 year requirement). ATS score is low because the resume lacks core Workday/HRIS keywords and title alignment; the biggest gap is missing Workday-specific terminology.",
+    "missing_keywords": [
+      "Workday",
+      "HRIS",
+      "Recruiting",
+      "Core Compensation",
+      "Business Process changes",
+      "System configuration",
+      "Implementation methodology"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-05-18",
+    "date_last_seen": "2026-05-18"
+  },
+  "optum india::product manager - api services, stakeholder management": {
+    "company": "Optum India",
+    "title": "Product Manager - API Services, Stakeholder Management",
+    "ats_score": 25,
+    "fit_score": 20,
+    "reasoning": "The JD requires 5+ years of product management experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the resume also lacks several key service\u2011product terms.",
+    "missing_keywords": [
+      "service roadmap",
+      "customer success",
+      "operational impact",
+      "OKRs",
+      "A/B testing",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "skills_gap",
+      "domain_mismatch",
+      "senior_role"
+    ],
+    "date_found": "2026-05-18",
+    "date_last_seen": "2026-05-18"
+  },
+  "jack & jill::product manager-ii (40\u201350 lpa + equity) at ai-native creative intelligence startup": {
+    "company": "Jack & Jill",
+    "title": "Product Manager-II (40\u201350 LPA + Equity) at AI-native creative intelligence startup",
+    "ats_score": 68,
+    "fit_score": 55,
+    "reasoning": "The candidate meets the 4\u2011year experience requirement, so hard rules do not penalize the scores; the resume contains many JD keywords but lacks several core terms like LLM and marketing, leading to a solid ATS score but moderate job\u2011fit.",
+    "missing_keywords": [
+      "LLM",
+      "agentic workflows",
+      "creative analysis",
+      "marketing",
+      "AdTech",
+      "A/B testing",
+      "OKRs",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-05-18",
+    "date_last_seen": "2026-05-18"
+  },
+  "smallcase::product manager 1- mf": {
+    "company": "smallcase",
+    "title": "Product Manager 1- MF",
+    "ats_score": 55,
+    "fit_score": 45,
+    "reasoning": "The resume meets the 4\u2011year experience requirement and location, but lacks many fintech\u2011specific keywords, lowering the ATS score; the biggest gap is the absence of mutual\u2011fund/fintech terminology.",
+    "missing_keywords": [
+      "Mutual Funds",
+      "Fintech",
+      "Mixpanel",
+      "Amplitude",
+      "Investor behavior",
+      "Roadmap",
+      "Pod ownership",
+      "Capital markets"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "strong_saas_fit",
+      "strong_genai_fit"
+    ],
+    "date_found": "2026-05-18",
+    "date_last_seen": "2026-05-18"
+  },
+  "columbia sportswear company::digital product owner (emerging brands)": {
+    "company": "Columbia Sportswear Company",
+    "title": "Digital Product Owner (Emerging Brands)",
+    "ats_score": 62,
+    "fit_score": 55,
+    "reasoning": "Hard rules pass (4 years experience matches no minimum >4). ATS score is moderate due to good keyword overlap but missing core ecommerce tech terms. Fit score is limited by domain mismatch with ecommerce focus.",
+    "missing_keywords": [
+      "React",
+      "Salesforce Commerce Cloud",
+      "Amplience CMS",
+      "A/B testing",
+      "OKRs",
+      "RICE prioritization",
+      "NPS improvement",
+      "MAU growth",
+      "Mixpanel"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-05-18",
+    "date_last_seen": "2026-05-18"
+  },
+  "hackajob::frimwide p&a innovation & transformation product manager": {
+    "company": "hackajob",
+    "title": "Frimwide P&A Innovation & Transformation Product Manager",
+    "ats_score": 25,
+    "fit_score": 20,
+    "reasoning": "The JD requires 5+ years of product management experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the most important keyword gap is the lack of explicit financial analytics terminology.",
+    "missing_keywords": [
+      "financial forecasting",
+      "regulatory reporting",
+      "roadmap development",
+      "OKRs",
+      "Snowflake"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "senior_role"
+    ],
+    "date_found": "2026-05-18",
+    "date_last_seen": "2026-05-18"
+  },
+  "avenueshr consulting::product owner \u2013 virtual accounts": {
+    "company": "AvenuesHR Consulting",
+    "title": "Product Owner \u2013 Virtual Accounts",
+    "ats_score": 25,
+    "fit_score": 20,
+    "reasoning": "The JD requires 12+ years of product management experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the resume also lacks key virtual\u2011account and fintech terminology.",
+    "missing_keywords": [
+      "Virtual Accounts",
+      "cash management",
+      "treasury services",
+      "KYC/AML",
+      "payment platforms"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-05-18",
+    "date_last_seen": "2026-05-18"
   }
 }
