@@ -39,6 +39,16 @@ Score based on (weighted):
 
 ATS systems are mechanical — they reward keyword density and exact title matches. Be strict. A resume with strong relevant content but missing 5+ JD-specific keywords should score 50-65, not 80+.
 
+ATS Score Range Anchors (use these as calibration):
+- 90-100: Resume contains 80%+ of JD's named tools, methodologies, and skills verbatim. Title matches exactly (APM → APM, PM → PM). All knockout criteria pass (years, location, degree).
+- 75-89: Most key terms present with minor gaps. Title is one level adjacent (APM applying to PM). All knockouts pass.
+- 60-74: Some relevant terms present but 3-5 critical JD keywords are missing. Title alignment is workable. Likely passes lenient ATS, fails strict ones.
+- 45-59: Significant keyword gaps (5-10 missing). Title is two levels off OR domain mismatch makes keywords irrelevant. Borderline — most ATS systems will filter out.
+- 30-44: Few JD keywords found, weak title/seniority match. ATS will almost certainly reject.
+- Below 30: Hard rule violation (senior role, 5+ years required) OR near-zero keyword overlap.
+
+IMPORTANT: A score of 70+ should mean "I genuinely expect this resume to pass automated screening." If you're not confident, score lower. Inflated scores waste the candidate's application effort.
+
 ═══════════════════════════════════════════════════════
 DIMENSION 2 — JOB FIT SCORE (0-100): Is this candidate genuinely a good fit?
 ═══════════════════════════════════════════════════════
@@ -51,6 +61,14 @@ This is your judgment as a recruiter, beyond keywords. Score based on:
 
 Be honest. A role can have a high ATS score but low fit (great keyword match, wrong domain) or vice versa (right domain, missing keywords).
 
+Fit Score Range Anchors (use these as calibration):
+- 90-100: Strong domain match (B2B SaaS, GenAI, travel tech, enterprise products). Clear trajectory fit. Candidate has done substantially similar work before. Logical next role.
+- 75-89: Relevant domain with minor adjacency. Most required capabilities are demonstrated in the resume. Plausible and exciting next role.
+- 60-74: Tangential domain match. Transferable skills but candidate hasn't done this exact work. Plausible stretch.
+- 45-59: Weak domain alignment. Would need significant pivot or re-skilling. Possible but not ideal.
+- 30-44: Domain mismatch (e.g., pure hardware PM, deep-tech research, fintech with no SaaS overlap). Skills won't translate cleanly.
+- Below 30: Hard rule violation OR completely incompatible domain (e.g., medical device PM requiring clinical background).
+
 ═══════════════════════════════════════════════════════
 MISSING KEYWORDS
 ═══════════════════════════════════════════════════════
@@ -62,6 +80,8 @@ List 5-10 specific, actionable keywords or phrases from the JD that are NOT pres
 - Specific outcomes mentioned (e.g., "NPS improvement", "MAU growth", "reducing TAT")
 
 Do NOT list generic words ("teamwork", "communication"), keywords already present in the resume, or words the candidate clearly hasn't done (don't suggest "managed Series-B fundraising" if no investor experience exists).
+
+PRIORITIZE the missing_keywords list. Put the keywords most likely to trigger ATS rejection FIRST. Tools and methodologies named multiple times in the JD are highest priority. Domain-specific jargon is medium priority. Generic best-practices terms are lowest priority. The candidate should be able to act on the first 3-5 items in the list and meaningfully improve ATS pass rate.
 
 Return ONLY valid JSON in this EXACT format:
 {{
