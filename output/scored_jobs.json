@@ -2163,7 +2163,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-08",
-    "date_last_seen": "2026-06-21"
+    "date_last_seen": "2026-06-30"
   },
   "nexus venture partners::product manager": {
     "company": "Nexus Venture Partners",
@@ -2283,7 +2283,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-09",
-    "date_last_seen": "2026-06-11"
+    "date_last_seen": "2026-06-30"
   },
   "teradata::product manager (ic), agentic ai": {
     "company": "Teradata",
@@ -3006,7 +3006,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-10",
-    "date_last_seen": "2026-05-10"
+    "date_last_seen": "2026-06-30"
   },
   "amazon::product manager , amazon now": {
     "company": "Amazon",
@@ -3582,7 +3582,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-11",
-    "date_last_seen": "2026-06-29"
+    "date_last_seen": "2026-06-30"
   },
   "siemens healthineers::product owner - data analytics (ai/ml)": {
     "company": "Siemens Healthineers",
@@ -6037,7 +6037,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-15",
-    "date_last_seen": "2026-06-29"
+    "date_last_seen": "2026-06-30"
   },
   "citi::vp- custody product manager -data & ai": {
     "company": "Citi",
@@ -6487,7 +6487,7 @@
       "domain_mismatch"
     ],
     "date_found": "2026-05-16",
-    "date_last_seen": "2026-06-29"
+    "date_last_seen": "2026-06-30"
   },
   "penguin ai::product owner - payment integrity": {
     "company": "Penguin Ai",
@@ -6889,7 +6889,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-17",
-    "date_last_seen": "2026-06-10"
+    "date_last_seen": "2026-06-30"
   },
   "hackajob::vice president - product manager - machine learning & intelligent operations": {
     "company": "hackajob",
@@ -7646,7 +7646,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-19",
-    "date_last_seen": "2026-06-10"
+    "date_last_seen": "2026-06-30"
   },
   "yash technologies::product owner job": {
     "company": "YASH Technologies",
@@ -7690,7 +7690,7 @@
       "strong_genai_fit"
     ],
     "date_found": "2026-05-19",
-    "date_last_seen": "2026-06-09"
+    "date_last_seen": "2026-06-30"
   },
   "avenueshr consulting::domestic payments -product owner": {
     "company": "AvenuesHR Consulting",
@@ -8889,7 +8889,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-22",
-    "date_last_seen": "2026-06-18"
+    "date_last_seen": "2026-06-30"
   },
   "nykaa::product manager - ii - b2b": {
     "company": "Nykaa",
@@ -13485,7 +13485,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-06",
-    "date_last_seen": "2026-06-29"
+    "date_last_seen": "2026-06-30"
   },
   "merge::product manager - fintech": {
     "company": "Merge",
@@ -14032,7 +14032,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-09",
-    "date_last_seen": "2026-06-18"
+    "date_last_seen": "2026-06-30"
   },
   "seventh contact hiring solutions::product manager ii (widgets, micro frontend exp) with us based product company- remote.": {
     "company": "Seventh Contact Hiring Solutions",
@@ -17118,7 +17118,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-06-20",
-    "date_last_seen": "2026-06-21"
+    "date_last_seen": "2026-06-30"
   },
   "phox health::product manager": {
     "company": "Phox Health",
@@ -18375,7 +18375,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-25",
-    "date_last_seen": "2026-06-28"
+    "date_last_seen": "2026-06-30"
   },
   "slice::product manager": {
     "company": "slice",
@@ -19473,7 +19473,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-28",
-    "date_last_seen": "2026-06-29"
+    "date_last_seen": "2026-06-30"
   },
   "career bloc::ai product manager (from fintech & bfsi)": {
     "company": "CAREER BLOC",
@@ -19549,7 +19549,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-28",
-    "date_last_seen": "2026-06-29"
+    "date_last_seen": "2026-06-30"
   },
   "finkraft::product manager": {
     "company": "Finkraft",
@@ -19576,7 +19576,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-29",
-    "date_last_seen": "2026-06-29"
+    "date_last_seen": "2026-06-30"
   },
   "sourcingxpress::product manager": {
     "company": "SourcingXPress",
@@ -19676,5 +19676,259 @@
     ],
     "date_found": "2026-06-29",
     "date_last_seen": "2026-06-29"
+  },
+  "jar::product manager - mutual funds": {
+    "company": "Jar",
+    "title": "Product Manager - Mutual Funds",
+    "ats_score": 42,
+    "fit_score": 44,
+    "reasoning": "Hard rules pass, but the resume lacks most fintech\u2011specific keywords and domain experience, resulting in low ATS and fit scores; the biggest gap is missing mutual\u2011fund and regulatory terminology.",
+    "missing_keywords": [
+      "Mutual Funds",
+      "SIP setup",
+      "SEBI compliance",
+      "AUM growth",
+      "Investor onboarding",
+      "Regulatory compliance",
+      "Portfolio management",
+      "Financial product metrics"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-06-30",
+    "date_last_seen": "2026-06-30"
+  },
+  "google::product manager, payment platform": {
+    "company": "Google",
+    "title": "Product Manager, Payment Platform",
+    "ats_score": 78,
+    "fit_score": 55,
+    "reasoning": "The resume meets the hard rules and contains many JD keywords, but lacks payment\u2011specific terminology and roadmap experience, lowering the fit.",
+    "missing_keywords": [
+      "Payments ecosystem",
+      "Payment processing",
+      "AI/ML",
+      "Technical roadmap",
+      "OKRs",
+      "A/B testing"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "strong_saas_fit",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-06-30",
+    "date_last_seen": "2026-06-30"
+  },
+  "ather energy::product manager - software": {
+    "company": "Ather Energy",
+    "title": "Product Manager - Software",
+    "ats_score": 58,
+    "fit_score": 65,
+    "reasoning": "The candidate meets the 4\u2011year experience requirement and title level, but the resume lacks several core JD keywords (e.g., SEO, A/B testing, CMS). Overall keyword density is moderate, leading to a mid\u2011range ATS score, while domain and skill overlap give a decent fit score.",
+    "missing_keywords": [
+      "SEO",
+      "A/B testing",
+      "CMS",
+      "Design System",
+      "North Star metrics",
+      "MAU",
+      "Bounce Rate",
+      "Event tracking"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-06-30",
+    "date_last_seen": "2026-06-30"
+  },
+  "mm management consultant::product owner": {
+    "company": "MM Management Consultant",
+    "title": "Product Owner",
+    "ats_score": 25,
+    "fit_score": 22,
+    "reasoning": "The JD requires 10+ years of experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the biggest keyword gap is the lack of any Salesforce\u2011related terms.",
+    "missing_keywords": [
+      "Salesforce",
+      "Sales Cloud",
+      "Service Cloud",
+      "Marketing Cloud",
+      "Product Roadmap",
+      "Azure DevOps"
+    ],
+    "fit_flags": [
+      "senior_role",
+      "skills_gap"
+    ],
+    "date_found": "2026-06-30",
+    "date_last_seen": "2026-06-30"
+  },
+  "milestone technologies, inc.::scrum product owner- (npw)": {
+    "company": "Milestone Technologies, Inc.",
+    "title": "Scrum Product Owner- (NPW)",
+    "ats_score": 58,
+    "fit_score": 55,
+    "reasoning": "Hard rules are satisfied, but the resume lacks many JD-specific terms such as Scrum, Product Owner, and pharmaceutical AI context, leading to moderate ATS and fit scores.",
+    "missing_keywords": [
+      "Scrum",
+      "Product Owner",
+      "Pharmaceutical",
+      "Agentic AI",
+      "Roadmap",
+      "OKRs"
+    ],
+    "fit_flags": [
+      "skills_gap",
+      "domain_mismatch",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-06-30",
+    "date_last_seen": "2026-06-30"
+  },
+  "tekpillar\u00ae::product manager": {
+    "company": "TekPillar\u00ae",
+    "title": "Product Manager",
+    "ats_score": 28,
+    "fit_score": 27,
+    "reasoning": "The JD requires 8+ years of experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the most important keyword gap is the lack of any automotive aftersales or ERP/DMS/CRM integration experience.",
+    "missing_keywords": [
+      "Automotive Aftersales",
+      "ERP integration",
+      "DMS integration",
+      "CRM integration",
+      "SAFe methodology",
+      "API integration",
+      "Product roadmap management",
+      "KPIs and performance monitoring"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-06-30",
+    "date_last_seen": "2026-06-30"
+  },
+  "quest global::product owner / business analyst /  product manager technical": {
+    "company": "Quest Global",
+    "title": "Product Owner / Business Analyst /  Product Manager Technical",
+    "ats_score": 78,
+    "fit_score": 82,
+    "reasoning": "The resume meets the 4\u2011year experience requirement and the title aligns (Associate Product Manager vs. Product Manager). It contains many JD keywords but lacks several core terms like \"cloud\u2011native\" and \"payments\".",
+    "missing_keywords": [
+      "cloud\u2011native",
+      "platform building",
+      "payments",
+      "executive communication",
+      "OKRs"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "skills_match"
+    ],
+    "date_found": "2026-06-30",
+    "date_last_seen": "2026-06-30"
+  },
+  "rainfall ventures::product manager - mutual funds": {
+    "company": "Rainfall Ventures",
+    "title": "Product Manager - Mutual Funds",
+    "ats_score": 45,
+    "fit_score": 55,
+    "reasoning": "Hard rules are satisfied, but the resume lacks many fintech\u2011specific terms from the JD, resulting in a low ATS match; the biggest gap is the absence of mutual\u2011fund and investment\u2011domain keywords.",
+    "missing_keywords": [
+      "mutual funds",
+      "SIP setup",
+      "portfolio management",
+      "SEBI compliance",
+      "AUM growth",
+      "investor onboarding",
+      "financial regulations",
+      "retention metrics",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-06-30",
+    "date_last_seen": "2026-06-30"
+  },
+  "zones india::marketing product owner \u2013 marketing automation": {
+    "company": "Zones India",
+    "title": "Marketing Product Owner \u2013 Marketing Automation",
+    "ats_score": 44,
+    "fit_score": 42,
+    "reasoning": "The resume lacks core marketing automation terminology and tools required by the JD, resulting in low keyword density; domain mismatch further reduces fit.",
+    "missing_keywords": [
+      "D365 Customer Insights",
+      "Marketing Automation",
+      "Demand Generation",
+      "MQL (Marketing Qualified Lead)",
+      "A/B testing",
+      "Attribution accuracy",
+      "Personalization",
+      "Campaign velocity",
+      "OKRs"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-06-30",
+    "date_last_seen": "2026-06-30"
+  },
+  "tekpillar\u00ae::product owner": {
+    "company": "TekPillar\u00ae",
+    "title": "Product Owner",
+    "ats_score": 28,
+    "fit_score": 27,
+    "reasoning": "The JD requires 8+ years of experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the biggest keyword gap is the lack of any mention of ERP/DMS/CRM integration experience.",
+    "missing_keywords": [
+      "ERP integration",
+      "DMS integration",
+      "CRM integration",
+      "Automotive Aftersales",
+      "SAFe methodology",
+      "Product roadmap management",
+      "RICE prioritization",
+      "OKRs"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "senior_role"
+    ],
+    "date_found": "2026-06-30",
+    "date_last_seen": "2026-06-30"
+  },
+  "vconstruct private limited::product owner": {
+    "company": "vConstruct Private Limited",
+    "title": "Product Owner",
+    "ats_score": 68,
+    "fit_score": 78,
+    "reasoning": "Hard rules are satisfied (4 years experience, no senior title requirement). The resume covers many core Agile and product management terms but misses several JD-specific artifacts like mockup levels and release planning, lowering the ATS score. Domain and skill alignment are strong, yielding a solid fit score.",
+    "missing_keywords": [
+      "low-fidelity mockups",
+      "high-fidelity mockups",
+      "release plan",
+      "solution architect collaboration",
+      "resource planning",
+      "billing activities",
+      "customer feedback analysis"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-06-30",
+    "date_last_seen": "2026-06-30"
   }
 }
