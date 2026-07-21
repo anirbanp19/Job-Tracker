@@ -1852,7 +1852,7 @@
       "skills_match"
     ],
     "date_found": "2026-05-08",
-    "date_last_seen": "2026-07-13"
+    "date_last_seen": "2026-07-21"
   },
   "greenway health::associate product manager": {
     "company": "Greenway Health",
@@ -2037,7 +2037,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-08",
-    "date_last_seen": "2026-07-08"
+    "date_last_seen": "2026-07-21"
   },
   "keyloop::product manager": {
     "company": "Keyloop",
@@ -2163,7 +2163,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-08",
-    "date_last_seen": "2026-07-12"
+    "date_last_seen": "2026-07-21"
   },
   "nexus venture partners::product manager": {
     "company": "Nexus Venture Partners",
@@ -2283,7 +2283,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-09",
-    "date_last_seen": "2026-07-02"
+    "date_last_seen": "2026-07-21"
   },
   "teradata::product manager (ic), agentic ai": {
     "company": "Teradata",
@@ -5701,7 +5701,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-15",
-    "date_last_seen": "2026-07-20"
+    "date_last_seen": "2026-07-21"
   },
   "diageo india::data product manager - commercial": {
     "company": "DIAGEO India",
@@ -5959,7 +5959,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-15",
-    "date_last_seen": "2026-07-20"
+    "date_last_seen": "2026-07-21"
   },
   "bp::product manager": {
     "company": "bp",
@@ -7646,7 +7646,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-19",
-    "date_last_seen": "2026-07-02"
+    "date_last_seen": "2026-07-21"
   },
   "yash technologies::product owner job": {
     "company": "YASH Technologies",
@@ -14119,7 +14119,7 @@
       "skills_gap"
     ],
     "date_found": "2026-06-09",
-    "date_last_seen": "2026-07-04"
+    "date_last_seen": "2026-07-21"
   },
   "siemens::product owner - electrification ai solutions": {
     "company": "Siemens",
@@ -15691,7 +15691,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-16",
-    "date_last_seen": "2026-06-18"
+    "date_last_seen": "2026-07-21"
   },
   "swivl::product manager (ai-first) (3 - 5 years)": {
     "company": "Swivl",
@@ -17190,7 +17190,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-20",
-    "date_last_seen": "2026-07-13"
+    "date_last_seen": "2026-07-21"
   },
   "zamp::ai product manager": {
     "company": "Zamp",
@@ -18375,7 +18375,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-25",
-    "date_last_seen": "2026-07-20"
+    "date_last_seen": "2026-07-21"
   },
   "slice::product manager": {
     "company": "slice",
@@ -19473,7 +19473,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-28",
-    "date_last_seen": "2026-07-20"
+    "date_last_seen": "2026-07-21"
   },
   "career bloc::ai product manager (from fintech & bfsi)": {
     "company": "CAREER BLOC",
@@ -20048,7 +20048,7 @@
       "skills_gap"
     ],
     "date_found": "2026-07-01",
-    "date_last_seen": "2026-07-03"
+    "date_last_seen": "2026-07-21"
   },
   "duroshox::product manager": {
     "company": "Duroshox",
@@ -20704,7 +20704,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-03",
-    "date_last_seen": "2026-07-05"
+    "date_last_seen": "2026-07-21"
   },
   "amgen::product owner - digital lab platform": {
     "company": "Amgen",
@@ -24136,7 +24136,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-17",
-    "date_last_seen": "2026-07-17"
+    "date_last_seen": "2026-07-21"
   },
   "ust::product manager i": {
     "company": "UST",
@@ -24698,7 +24698,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-20",
-    "date_last_seen": "2026-07-20"
+    "date_last_seen": "2026-07-21"
   },
   "oneinbox.ai (techstars '25)::product manager \u2014 data platform & marketplace": {
     "company": "OneInbox.ai (Techstars '25)",
@@ -24725,7 +24725,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-20",
-    "date_last_seen": "2026-07-20"
+    "date_last_seen": "2026-07-21"
   },
   "salesforce-ad::product manager \u2013 tableau next": {
     "company": "SalesForce-ad",
@@ -24817,6 +24817,271 @@
       "skills_match"
     ],
     "date_found": "2026-07-20",
-    "date_last_seen": "2026-07-20"
+    "date_last_seen": "2026-07-21"
+  },
+  "aditi consulting::product manager": {
+    "company": "Aditi Consulting",
+    "title": "Product Manager",
+    "ats_score": 68,
+    "fit_score": 72,
+    "reasoning": "The resume meets the 3+ years requirement and seniority constraints, but lacks several JD-specific tools and domain terms, notably Confluence and risk/fraud language, lowering the ATS score; the strongest keyword gap is the missing mention of Confluence.",
+    "missing_keywords": [
+      "Confluence",
+      "risk management",
+      "fraud detection",
+      "compliance",
+      "data pipelines",
+      "ML/AI platform",
+      "feature store"
+    ],
+    "fit_flags": [
+      "skills_match",
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-07-21",
+    "date_last_seen": "2026-07-21"
+  },
+  "iqnext::associate product manager (apm)": {
+    "company": "IQnext",
+    "title": "Associate Product Manager (APM)",
+    "ats_score": 58,
+    "fit_score": 62,
+    "reasoning": "The resume meets the years requirement and title level, but lacks many IoT\u2011specific terms and protocols required by the JD, resulting in a modest ATS score; the biggest keyword gap is the absence of IoT and related device terminology.",
+    "missing_keywords": [
+      "IoT",
+      "connected devices",
+      "gateways",
+      "BACnet",
+      "Modbus",
+      "MQTT",
+      "REST APIs",
+      "market and competitor analysis",
+      "product roadmap"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-21",
+    "date_last_seen": "2026-07-21"
+  },
+  "dpdzero::product manager": {
+    "company": "DPDzero",
+    "title": "Product Manager",
+    "ats_score": 55,
+    "fit_score": 60,
+    "reasoning": "The candidate meets the 4\u2011year requirement and title level, but the resume contains few of the specific telecalling and collections keywords from the JD, lowering the ATS score; the biggest gap is the lack of telecalling/AI\u2011voice terminology.",
+    "missing_keywords": [
+      "telecalling",
+      "outbound calling",
+      "inbound calling",
+      "AI voice agents",
+      "digital nudges",
+      "unit economics",
+      "intelligent queue",
+      "next\u2011best\u2011action",
+      "compliance flows",
+      "audit trails"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-21",
+    "date_last_seen": "2026-07-21"
+  },
+  "nubra::product manager": {
+    "company": "Nubra",
+    "title": "Product Manager",
+    "ats_score": 38,
+    "fit_score": 44,
+    "reasoning": "The candidate meets the 3\u2011year minimum (4 years) and has no senior title, so hard rules pass, but the resume lacks most trading\u2011specific keywords required by the JD, resulting in a low ATS score; the biggest gap is the absence of trading domain terms.",
+    "missing_keywords": [
+      "order types",
+      "option chain",
+      "trading automation APIs",
+      "market microstructure",
+      "compliance and risk"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-21",
+    "date_last_seen": "2026-07-21"
+  },
+  "revantage, a blackstone portfolio company::product manager": {
+    "company": "Revantage, A Blackstone Portfolio Company",
+    "title": "Product Manager",
+    "ats_score": 72,
+    "fit_score": 81,
+    "reasoning": "Hard rules pass (4 years experience, no senior title). ATS score is solid due to strong keyword overlap (Jira, Agile, sprint ceremonies, GenAI) but missing core AI\u2011product terms like model drift and KPI tracking. Fit score is high because the candidate\u2019s SaaS and GenAI experience aligns well with the AI\u2011powered product focus.",
+    "missing_keywords": [
+      "model drift",
+      "bias mitigation",
+      "ethical considerations",
+      "KPIs",
+      "success metrics",
+      "product roadmap",
+      "OKRs",
+      "A/B testing"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-07-21",
+    "date_last_seen": "2026-07-21"
+  },
+  "vanguard india::associate product manager, specialist- core - tax form and delivery": {
+    "company": "Vanguard India",
+    "title": "Associate Product Manager, Specialist- Core - Tax Form and Delivery",
+    "ats_score": 55,
+    "fit_score": 78,
+    "reasoning": "The candidate meets the 3\u2011year minimum (has 4 years) and no senior title triggers a hard rule, but the resume only covers ~40% of the JD's explicit keywords, lowering the ATS score. The biggest gap is the lack of mobile/cloud terminology.",
+    "missing_keywords": [
+      "mobile",
+      "cloud\u2011based technologies",
+      "messaging and customer outreach",
+      "product performance metrics",
+      "market analysis",
+      "OKRs or similar goal\u2011setting framework",
+      "user feedback analysis tools (e.g., surveys, NPS)"
+    ],
+    "fit_flags": [
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "skills_match",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-21",
+    "date_last_seen": "2026-07-21"
+  },
+  "vaisesika::technical product owner": {
+    "company": "Vaisesika",
+    "title": "Technical Product Owner",
+    "ats_score": 48,
+    "fit_score": 55,
+    "reasoning": "The resume lacks many pharma\u2011specific compliance and manufacturing platform keywords required by the JD, and the title does not align with a Technical Product Owner, resulting in a modest ATS score; the biggest gap is the absence of GxP/GMP terminology.",
+    "missing_keywords": [
+      "GxP regulations",
+      "GMP / GAMP 5",
+      "MES (Manufacturing Execution System)",
+      "LIMS (Laboratory Information Management System)",
+      "SAP ERP",
+      "Electronic Batch Records",
+      "21 CFR Part 11"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor",
+      "strong_genai_fit"
+    ],
+    "date_found": "2026-07-21",
+    "date_last_seen": "2026-07-21"
+  },
+  "vanguard::associate product manager, specialist- core - tax form and delivery": {
+    "company": "Vanguard",
+    "title": "Associate Product Manager, Specialist- Core - Tax Form and Delivery",
+    "ats_score": 68,
+    "fit_score": 62,
+    "reasoning": "The candidate meets the 3\u2011year minimum (has 4 years) and no senior title rule is triggered; however the resume lacks several JD\u2011specific keywords such as roadmap and product performance metrics, lowering the ATS score. Domain alignment is decent (SaaS, enterprise tools) but tax\u2011product experience is missing, resulting in a moderate fit score.",
+    "missing_keywords": [
+      "roadmap",
+      "product performance metrics",
+      "customer outreach",
+      "business planning",
+      "prioritization frameworks (e.g., OKRs, RICE)",
+      "release notes",
+      "messaging strategy"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-21",
+    "date_last_seen": "2026-07-21"
+  },
+  "basf::product manager - hr it - analytics / authorisations / h4s4 platform - (m/f/d)": {
+    "company": "BASF",
+    "title": "Product Manager - HR IT - Analytics / Authorisations / H4S4 Platform - (m/f/d)",
+    "ats_score": 45,
+    "fit_score": 44,
+    "reasoning": "The resume meets the hard rules (4 years experience, no senior title), but lacks many HR\u2011specific keywords such as SAP HCM and authorizations, resulting in a low ATS match and limited domain fit.",
+    "missing_keywords": [
+      "SAP HCM",
+      "HR analytics",
+      "authorizations",
+      "global HR IT",
+      "AI\u2011driven HR analytics",
+      "compliance",
+      "governance",
+      "HR process automation"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-07-21",
+    "date_last_seen": "2026-07-21"
+  },
+  "western union::product owner": {
+    "company": "Western Union",
+    "title": "Product Owner",
+    "ats_score": 55,
+    "fit_score": 48,
+    "reasoning": "Hard rules pass, but the resume lacks many compliance and AML-specific terms required by the JD, resulting in a modest ATS score and a low fit score due to domain mismatch.",
+    "missing_keywords": [
+      "AML compliance",
+      "Sanctions regulations",
+      "Regulatory requirements",
+      "Backlog prioritization",
+      "Scrum framework",
+      "Feature management",
+      "Risk assessment"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-21",
+    "date_last_seen": "2026-07-21"
+  },
+  "vois::product owner - telecom bss & billing - pune": {
+    "company": "VOIS",
+    "title": "PRODUCT OWNER - TELECOM BSS & BILLING - Pune",
+    "ats_score": 44,
+    "fit_score": 46,
+    "reasoning": "The resume lacks many core telecom and SAFe-specific terms required by the JD, resulting in low keyword density; the candidate's SaaS/GenAI background does not align closely with the telecom BSS & billing domain.",
+    "missing_keywords": [
+      "SAFe",
+      "Program Increment (PI) planning",
+      "billing systems",
+      "telecom BSS",
+      "Cable/TV domain",
+      "GDPR",
+      "SOX",
+      "vendor management",
+      "regulatory compliance"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-21",
+    "date_last_seen": "2026-07-21"
   }
 }
