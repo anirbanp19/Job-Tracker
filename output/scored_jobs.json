@@ -2661,7 +2661,7 @@
       "domain_mismatch"
     ],
     "date_found": "2026-05-09",
-    "date_last_seen": "2026-07-27"
+    "date_last_seen": "2026-07-28"
   },
   "citi::payments product owner - direct debit- vice president": {
     "company": "Citi",
@@ -7521,7 +7521,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-19",
-    "date_last_seen": "2026-07-27"
+    "date_last_seen": "2026-07-28"
   },
   "abacus insights::product owner": {
     "company": "Abacus Insights",
@@ -8864,7 +8864,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-22",
-    "date_last_seen": "2026-07-09"
+    "date_last_seen": "2026-07-28"
   },
   "target::product manager - roundel": {
     "company": "Target",
@@ -10706,7 +10706,7 @@
       "domain_mismatch"
     ],
     "date_found": "2026-05-27",
-    "date_last_seen": "2026-07-27"
+    "date_last_seen": "2026-07-28"
   },
   "modisoft inc::product manager, ai": {
     "company": "Modisoft Inc",
@@ -11211,7 +11211,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-29",
-    "date_last_seen": "2026-07-27"
+    "date_last_seen": "2026-07-28"
   },
   "qpiai::product manager quantum computers": {
     "company": "QpiAI",
@@ -13582,7 +13582,7 @@
       "strong_genai_fit"
     ],
     "date_found": "2026-06-06",
-    "date_last_seen": "2026-07-18"
+    "date_last_seen": "2026-07-28"
   },
   "coderabbit::product manager: console": {
     "company": "CodeRabbit",
@@ -15403,7 +15403,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-14",
-    "date_last_seen": "2026-07-08"
+    "date_last_seen": "2026-07-28"
   },
   "acko::product manager - 1 (d2c)": {
     "company": "Acko",
@@ -15931,7 +15931,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-16",
-    "date_last_seen": "2026-06-23"
+    "date_last_seen": "2026-07-28"
   },
   "uplers::product manager": {
     "company": "Uplers",
@@ -19168,7 +19168,7 @@
       "strong_genai_fit"
     ],
     "date_found": "2026-06-27",
-    "date_last_seen": "2026-07-27"
+    "date_last_seen": "2026-07-28"
   },
   "amadeus::product owner": {
     "company": "Amadeus",
@@ -19304,7 +19304,7 @@
       "skills_gap"
     ],
     "date_found": "2026-06-27",
-    "date_last_seen": "2026-07-27"
+    "date_last_seen": "2026-07-28"
   },
   "frevolt::associate product manager": {
     "company": "Frevolt",
@@ -20947,7 +20947,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-04",
-    "date_last_seen": "2026-07-27"
+    "date_last_seen": "2026-07-28"
   },
   "quest alliance::product manager - experience": {
     "company": "QUEST Alliance",
@@ -23842,7 +23842,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-16",
-    "date_last_seen": "2026-07-27"
+    "date_last_seen": "2026-07-28"
   },
   "eightfold ai::product manager i - platform": {
     "company": "Eightfold AI",
@@ -23937,7 +23937,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-07-16",
-    "date_last_seen": "2026-07-27"
+    "date_last_seen": "2026-07-28"
   },
   "valuelabs::product owner": {
     "company": "ValueLabs",
@@ -25287,7 +25287,7 @@
       "senior_role"
     ],
     "date_found": "2026-07-22",
-    "date_last_seen": "2026-07-27"
+    "date_last_seen": "2026-07-28"
   },
   "sonata software::product manager - compliance": {
     "company": "Sonata Software",
@@ -25939,7 +25939,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-25",
-    "date_last_seen": "2026-07-26"
+    "date_last_seen": "2026-07-28"
   },
   "salesforce-ad::product manager - informatica (pim)": {
     "company": "SalesForce-ad",
@@ -26096,5 +26096,366 @@
     ],
     "date_found": "2026-07-27",
     "date_last_seen": "2026-07-27"
+  },
+  "weekday ai (yc w21)::product manager lap": {
+    "company": "Weekday AI (YC W21)",
+    "title": "Product Manager LAP",
+    "ats_score": 44,
+    "fit_score": 48,
+    "reasoning": "The resume meets the years and seniority requirements, but it lacks most fintech and lending-specific keywords, resulting in low ATS and fit scores; the biggest gap is the absence of digital lending terminology.",
+    "missing_keywords": [
+      "digital lending",
+      "financial services",
+      "risk management",
+      "compliance",
+      "KPI monitoring",
+      "customer acquisition",
+      "loan onboarding",
+      "process automation"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "neerinfo solutions::digital product manager": {
+    "company": "NeerInfo Solutions",
+    "title": "Digital Product Manager",
+    "ats_score": 38,
+    "fit_score": 45,
+    "reasoning": "Hard rules are satisfied, but the resume lacks most JD-specific keywords (e.g., Dynamics 365, SCM modules) resulting in a low ATS score; domain mismatch lowers the fit score.",
+    "missing_keywords": [
+      "Microsoft Dynamics 365",
+      "Supply Chain Management",
+      "Inventory Management",
+      "Procurement",
+      "Manufacturing",
+      "Finance integration",
+      "ERP",
+      "Asset Management",
+      "D365 SCM"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "tresvista::product manager": {
+    "company": "TresVista",
+    "title": "Product Manager",
+    "ats_score": 65,
+    "fit_score": 78,
+    "reasoning": "Hard rules are satisfied (4 years meets the 3-year minimum). The resume covers many core product management terms but misses several JD-specific keywords, leading to a moderate ATS score; the strongest gap is the lack of private\u2011equity and multi\u2011tenant platform terminology.",
+    "missing_keywords": [
+      "private equity workflows",
+      "multi\u2011tenant architecture",
+      "product requirement document (PRD)",
+      "roadmap planning",
+      "OKRs",
+      "platform scalability",
+      "configurability",
+      "workflow orchestration",
+      "A/B testing"
+    ],
+    "fit_flags": [
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "domain_match",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "arrive::platform product manager": {
+    "company": "Arrive",
+    "title": "Platform Product manager",
+    "ats_score": 28,
+    "fit_score": 27,
+    "reasoning": "The JD explicitly requires 5+ years of product management experience; the candidate has only 4 years, triggering a hard rule that caps both scores below 30. The most important keyword gap is the absence of data\u2011platform specific terms such as \"data pipelines\" or \"cataloging\".",
+    "missing_keywords": [
+      "data pipelines",
+      "data cataloging",
+      "data governance",
+      "SLAs",
+      "cost-to-serve",
+      "AI/ML workflow governance",
+      "OKRs",
+      "Snowflake"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "skills_gap",
+      "senior_role"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "ukg::product manager ii": {
+    "company": "UKG",
+    "title": "Product Manager II",
+    "ats_score": 42,
+    "fit_score": 44,
+    "reasoning": "Hard rules pass, but the resume lacks most JD-specific project\u2011management keywords and domain focus, resulting in low ATS and fit scores; the biggest gap is missing terms like \"resource planning\" and \"project templates\".",
+    "missing_keywords": [
+      "resource planning",
+      "project templates",
+      "project financials",
+      "skills\u2011based allocation",
+      "issue management",
+      "time entry",
+      "expenses tracking",
+      "billing and reporting"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "easypark::platform product manager": {
+    "company": "EasyPark",
+    "title": "Platform Product manager",
+    "ats_score": 25,
+    "fit_score": 20,
+    "reasoning": "The JD explicitly requires 5+ years of product management experience, but the candidate has only 4+ years, triggering a hard rule; therefore both scores are forced below 30. The most important keyword gap is the lack of any mention of data platform, pipelines, or governance terminology.",
+    "missing_keywords": [
+      "data platform",
+      "data pipelines",
+      "data cataloging",
+      "governance",
+      "SLAs",
+      "adoption metrics",
+      "AI/ML workflow"
+    ],
+    "fit_flags": [
+      "senior_role",
+      "skills_gap"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "ansr::insights product manager [t500-27879]": {
+    "company": "ANSR",
+    "title": "Insights Product Manager [T500-27879]",
+    "ats_score": 58,
+    "fit_score": 62,
+    "reasoning": "The resume meets the 4\u2011year experience requirement and has no senior\u2011level title conflict, but it lacks many analytics\u2011specific keywords from the JD, lowering the ATS score; the biggest gap is the absence of core analytics and insights terminology.",
+    "missing_keywords": [
+      "Analytics product delivery",
+      "Insights",
+      "Visualization / UX",
+      "Solution Architecture",
+      "Release readiness",
+      "Scalable reusable analytics",
+      "US I&A squad",
+      "Growth Strategy",
+      "OKRs"
+    ],
+    "fit_flags": [
+      "skills_match",
+      "domain_mismatch",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "milestone technologies, inc.::product manager": {
+    "company": "Milestone Technologies, Inc.",
+    "title": "Product Manager",
+    "ats_score": 78,
+    "fit_score": 70,
+    "reasoning": "The resume meets the hard rules and contains many JD keywords, but lacks payment\u2011product specific terms and a few methodology keywords, lowering the ATS score; the strongest gap is the absence of payment domain experience.",
+    "missing_keywords": [
+      "payment processing",
+      "payment gateway integration",
+      "OKRs",
+      "A/B testing",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "skills_match",
+      "domain_match",
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "wisemonk::associate product manager": {
+    "company": "Wisemonk",
+    "title": "Associate Product Manager",
+    "ats_score": 66,
+    "fit_score": 78,
+    "reasoning": "Hard rules pass (4 years experience, matching title). The resume covers many core product management terms but lacks several JD-specific keywords such as Claude and explicit PRD/spec writing, lowering the ATS score. Strong GenAI and SaaS experience boosts the fit score.",
+    "missing_keywords": [
+      "Claude (AI assistant)",
+      "PRD (Product Requirements Document)",
+      "AI\u2011driven product intent",
+      "customer pilot feedback loop",
+      "OKRs",
+      "RICE prioritization"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "fareportal::associate product manager": {
+    "company": "Fareportal",
+    "title": "Associate Product Manager",
+    "ats_score": 66,
+    "fit_score": 82,
+    "reasoning": "Hard rules pass (4 years experience, correct title). ATS score is moderate due to missing core marketing keywords like landing pages and email templates, while fit score is high because of strong travel SaaS and GenAI experience.",
+    "missing_keywords": [
+      "landing pages",
+      "marketing email templates",
+      "app notifications",
+      "customer acquisition",
+      "retention metrics",
+      "A/B testing",
+      "growth analytics"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "trianz::associate technical product manager": {
+    "company": "Trianz",
+    "title": "Associate Technical Product Manager",
+    "ats_score": 28,
+    "fit_score": 27,
+    "reasoning": "The JD requires 8+ years of experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the biggest keyword gap is the lack of any mention of writing CTO Office specifications or standards.",
+    "missing_keywords": [
+      "CTO Office specifications",
+      "technical standards documentation",
+      "API specification reading",
+      "versioning and tagging of standards library",
+      "capital\u2011raise technical narrative"
+    ],
+    "fit_flags": [
+      "experience_overshoot",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "esse india | canada immigration consultants in delhi | visa consultant delhi::product manager for canada opportunities": {
+    "company": "Esse India | Canada immigration consultants in delhi | visa consultant delhi",
+    "title": "Product Manager For Canada Opportunities",
+    "ats_score": 62,
+    "fit_score": 54,
+    "reasoning": "The resume meets the hard rules but lacks many immigration\u2011specific keywords and domain experience, lowering both scores; the biggest gap is the absence of immigration/visa terminology.",
+    "missing_keywords": [
+      "immigration program research",
+      "visa process compliance",
+      "service roadmap development",
+      "customer journey mapping",
+      "regulatory compliance",
+      "OKRs",
+      "A/B testing"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "greenlever::product manager- lending": {
+    "company": "Greenlever",
+    "title": "Product Manager- Lending",
+    "ats_score": 68,
+    "fit_score": 65,
+    "reasoning": "Hard rules pass (4 years experience, no senior title requirement). ATS score is moderate due to limited direct keyword overlap with the lending-focused JD, especially missing core terms like TOM and CCM. Fit score reflects decent product management experience but limited specific lending/financial services exposure.",
+    "missing_keywords": [
+      "Target Operating Model (TOM)",
+      "CCM (Credit Cycle Management) lending",
+      "risk management",
+      "regulatory compliance",
+      "pricing strategy",
+      "customer insight",
+      "business tracking",
+      "performance metrics"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "ats_keyword_poor",
+      "strong_saas_fit"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "course bhai::flipkart recruitment 2024: product manager i job": {
+    "company": "Course Bhai",
+    "title": "Flipkart Recruitment 2024: Product Manager I Job",
+    "ats_score": 48,
+    "fit_score": 55,
+    "reasoning": "Hard rules pass (4 years meets the 1-year minimum and no senior title). ATS score is low due to missing core JD terms like roadmap and product vision, and limited location match. Fit score is moderate because the candidate's SaaS and GenAI experience is relevant but not directly aligned with Flipkart's e\u2011commerce marketplace focus.",
+    "missing_keywords": [
+      "product roadmap",
+      "product vision",
+      "OKRs",
+      "A/B testing",
+      "NPS improvement",
+      "marketplace dynamics",
+      "two\u2011sided platform",
+      "customer acquisition",
+      "MAU growth"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
+  },
+  "yalavarthi software solutions private limited::product owner \u2013 mobile apps": {
+    "company": "YALAVARTHI SOFTWARE SOLUTIONS PRIVATE LIMITED",
+    "title": "Product Owner \u2013 Mobile Apps",
+    "ats_score": 55,
+    "fit_score": 60,
+    "reasoning": "The candidate meets the 3\u2011year minimum (4 years) and has no senior title, so hard rules pass, but the resume lacks many mobile\u2011app specific keywords and location match, lowering the ATS score; the biggest gap is the absence of Firebase Analytics and mobile\u2011app experience.",
+    "missing_keywords": [
+      "Firebase Analytics",
+      "Mobile app development",
+      "A/B testing",
+      "App Store Optimization (ASO)",
+      "In\u2011app purchases",
+      "Azure DevOps",
+      "Monetization strategy",
+      "Play Store reviews",
+      "Retention and engagement metrics"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit"
+    ],
+    "date_found": "2026-07-28",
+    "date_last_seen": "2026-07-28"
   }
 }
