@@ -3319,7 +3319,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-10",
-    "date_last_seen": "2026-06-29"
+    "date_last_seen": "2026-08-11"
   },
   "sanofi::digital r&d lab equipment automation jr. product owner": {
     "company": "Sanofi",
@@ -5585,7 +5585,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-15",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-11"
   },
   "sarvam::product manager on-device & edge ai": {
     "company": "Sarvam",
@@ -5959,7 +5959,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-15",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-11"
   },
   "bp::product manager": {
     "company": "bp",
@@ -19449,7 +19449,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-28",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-11"
   },
   "micron technology::product manager \u2013 procurement transformation": {
     "company": "Micron Technology",
@@ -19473,7 +19473,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-28",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-11"
   },
   "career bloc::ai product manager (from fintech & bfsi)": {
     "company": "CAREER BLOC",
@@ -20704,7 +20704,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-03",
-    "date_last_seen": "2026-07-26"
+    "date_last_seen": "2026-08-11"
   },
   "amgen::product owner - digital lab platform": {
     "company": "Amgen",
@@ -20824,7 +20824,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-04",
-    "date_last_seen": "2026-07-05"
+    "date_last_seen": "2026-08-11"
   },
   "amber::associate product manager": {
     "company": "Amber",
@@ -20921,7 +20921,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-07-04",
-    "date_last_seen": "2026-07-06"
+    "date_last_seen": "2026-08-11"
   },
   "atos::product manager": {
     "company": "Atos",
@@ -22336,7 +22336,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-10",
-    "date_last_seen": "2026-07-12"
+    "date_last_seen": "2026-08-11"
   },
   "docusign::ai product manager": {
     "company": "Docusign",
@@ -24552,7 +24552,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-07-19",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-11"
   },
   "takeda::digital pricing product owner": {
     "company": "Takeda",
@@ -24579,7 +24579,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-19",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-11"
   },
   "jpmorganchase::product owner - data management - associate": {
     "company": "JPMorganChase",
@@ -27776,7 +27776,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-04",
-    "date_last_seen": "2026-08-06"
+    "date_last_seen": "2026-08-11"
   },
   "octave::technical product manager": {
     "company": "Octave",
@@ -28992,7 +28992,7 @@
       "strong_genai_fit"
     ],
     "date_found": "2026-08-09",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-11"
   },
   "space capital::product manager, lsp44": {
     "company": "Space Capital",
@@ -29044,7 +29044,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-09",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-11"
   },
   "sapphire partners::product manager, lsp44": {
     "company": "Sapphire Partners",
@@ -29070,7 +29070,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-09",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-11"
   },
   "ujjivan small finance bank::product manager-individual loans": {
     "company": "Ujjivan Small Finance Bank",
@@ -29114,7 +29114,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-09",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-11"
   },
   "aptiv::product owner - autosar, embedded systems": {
     "company": "Aptiv",
@@ -29163,7 +29163,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-10",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-11"
   },
   "incred financial services::associate product manager": {
     "company": "InCred Financial Services",
@@ -29185,6 +29185,191 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-08-10",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-11"
+  },
+  "plotline::product manager": {
+    "company": "Plotline",
+    "title": "Product Manager",
+    "ats_score": 68,
+    "fit_score": 78,
+    "reasoning": "The candidate meets the 3\u2011year minimum (has 4 years) and no senior title rule is triggered; however the resume lacks several JD\u2011specific terms such as roadmap, QBR, and benchmark, lowering the ATS score. The strong SaaS and GenAI experience gives a solid job fit.",
+    "missing_keywords": [
+      "roadmap",
+      "QBR",
+      "benchmark",
+      "customer interviews",
+      "adoption metrics",
+      "OKRs",
+      "competitive analysis"
+    ],
+    "fit_flags": [
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "domain_match",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-08-11",
+    "date_last_seen": "2026-08-11"
+  },
+  "artech l.l.c.::product manager": {
+    "company": "Artech L.L.C.",
+    "title": "Product Manager",
+    "ats_score": 25,
+    "fit_score": 28,
+    "reasoning": "The JD requires 6+ years of experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the biggest keyword gap is the lack of any networking or routing/switching terminology.",
+    "missing_keywords": [
+      "networking",
+      "routing",
+      "switching",
+      "data center",
+      "router",
+      "OKRs",
+      "RICE prioritization",
+      "A/B testing"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "senior_role"
+    ],
+    "date_found": "2026-08-11",
+    "date_last_seen": "2026-08-11"
+  },
+  "merchmix::product manager": {
+    "company": "Merchmix",
+    "title": "Product Manager",
+    "ats_score": 28,
+    "fit_score": 27,
+    "reasoning": "The JD mentions \"3\u20135+ years\" which triggers the hard rule for >4 years, forcing both scores below 30; the resume lacks several core retail\u2011planning and ERP keywords.",
+    "missing_keywords": [
+      "retail planning",
+      "merchandising",
+      "ERP",
+      "OMS",
+      "WMS",
+      "product discovery",
+      "competitor analysis",
+      "user research",
+      "OKRs"
+    ],
+    "fit_flags": [
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-08-11",
+    "date_last_seen": "2026-08-11"
+  },
+  "amazon::product manager, private brands": {
+    "company": "Amazon",
+    "title": "Product Manager, Private Brands",
+    "ats_score": 58,
+    "fit_score": 62,
+    "reasoning": "The resume meets the 3+ year requirement and matches the Bengaluru location, so hard rules do not penalize it; however, key private\u2011brand specific terms like inventory management and catalog initiatives are missing, lowering the ATS score. The strongest keyword gap is the lack of any mention of inventory/forecasting or supply\u2011chain work.",
+    "missing_keywords": [
+      "inventory management",
+      "forecasting",
+      "supply chain optimization",
+      "catalog management",
+      "marketplace analytics",
+      "A/B testing",
+      "OKRs",
+      "customer NPS",
+      "growth metrics"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit"
+    ],
+    "date_found": "2026-08-11",
+    "date_last_seen": "2026-08-11"
+  },
+  "albertsons companies india::associate digital product manager [t500-28362]": {
+    "company": "Albertsons Companies India",
+    "title": "Associate Digital Product Manager [T500-28362]",
+    "ats_score": 78,
+    "fit_score": 68,
+    "reasoning": "Hard rules pass (4 years experience, correct location and title). ATS score is solid due to strong keyword and title match, but missing key marketing\u2011portal terms. Most important gap: lack of marketing campaign management keywords.",
+    "missing_keywords": [
+      "marketing campaign management",
+      "A/B testing",
+      "OKRs",
+      "customer segmentation",
+      "Mixpanel",
+      "Snowflake"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-08-11",
+    "date_last_seen": "2026-08-11"
+  },
+  "ansr::product owner, it [t500-28340]": {
+    "company": "ANSR",
+    "title": "Product Owner, IT [T500-28340]",
+    "ats_score": 68,
+    "fit_score": 70,
+    "reasoning": "The candidate meets the 3\u2011year minimum (has 4 years) and no senior\u2011level title conflict, so hard rules pass. Key JD terms like \"Contact Center\" and \"A/B testing\" are missing, lowering the ATS score.",
+    "missing_keywords": [
+      "Contact Center",
+      "Customer Experience",
+      "A/B testing",
+      "OKRs",
+      "RICE prioritization"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-08-11",
+    "date_last_seen": "2026-08-11"
+  },
+  "talentmatics::product owner \u2013 sap supply chain collaboration": {
+    "company": "Talentmatics",
+    "title": "Product Owner \u2013 SAP Supply Chain Collaboration",
+    "ats_score": 28,
+    "fit_score": 27,
+    "reasoning": "The JD requires 7+ years of SAP supply chain experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the resume also lacks core SAP-specific keywords.",
+    "missing_keywords": [
+      "SAP S/4HANA",
+      "SAP Ariba SCC",
+      "Source-to-Pay (S2P)",
+      "EDI integration",
+      "Purchase Order management"
+    ],
+    "fit_flags": [
+      "senior_role",
+      "skills_gap"
+    ],
+    "date_found": "2026-08-11",
+    "date_last_seen": "2026-08-11"
+  },
+  "albemarle corporation::data product manager": {
+    "company": "Albemarle Corporation",
+    "title": "Data Product Manager",
+    "ats_score": 25,
+    "fit_score": 20,
+    "reasoning": "The JD requires 7+ years of experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the resume also lacks several core data\u2011product keywords.",
+    "missing_keywords": [
+      "data governance",
+      "data quality",
+      "enterprise reporting",
+      "cloud\u2011native analytics",
+      "SQL",
+      "Snowflake",
+      "OKRs",
+      "RICE prioritization"
+    ],
+    "fit_flags": [
+      "skills_gap",
+      "domain_mismatch",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-08-11",
+    "date_last_seen": "2026-08-11"
   }
 }
