@@ -2163,7 +2163,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-08",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "nexus venture partners::product manager": {
     "company": "Nexus Venture Partners",
@@ -2661,7 +2661,7 @@
       "domain_mismatch"
     ],
     "date_found": "2026-05-09",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "citi::payments product owner - direct debit- vice president": {
     "company": "Citi",
@@ -8462,7 +8462,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-21",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "thomson reuters::associate product manager": {
     "company": "Thomson Reuters",
@@ -11692,7 +11692,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-30",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "ctruh::ai product manager": {
     "company": "Ctruh",
@@ -22312,7 +22312,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-07-10",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "easyship::growth product manager": {
     "company": "Easyship",
@@ -22530,7 +22530,7 @@
       "skills_match"
     ],
     "date_found": "2026-07-11",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "xoxoday::product manager (b2b rewards/loyalty/incentives, ai)": {
     "company": "Xoxoday",
@@ -23377,7 +23377,7 @@
       "senior_role"
     ],
     "date_found": "2026-07-14",
-    "date_last_seen": "2026-07-14"
+    "date_last_seen": "2026-08-24"
   },
   "evernorth health services::agile product owner advisor - hih - evernorth": {
     "company": "Evernorth Health Services",
@@ -25939,7 +25939,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-25",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "salesforce-ad::product manager - informatica (pim)": {
     "company": "SalesForce-ad",
@@ -27221,7 +27221,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-01",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "zinnia::product manager (technical) - identity & access management": {
     "company": "Zinnia",
@@ -31625,7 +31625,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-22",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "nudge::product manager": {
     "company": "Nudge",
@@ -31650,7 +31650,7 @@
       "strong_genai_fit"
     ],
     "date_found": "2026-08-22",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "nutanix::product manager": {
     "company": "Nutanix",
@@ -31672,7 +31672,7 @@
       "domain_mismatch"
     ],
     "date_found": "2026-08-22",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "csc global financial markets::assistant vice president, payments product owner": {
     "company": "CSC Global Financial Markets",
@@ -31722,7 +31722,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-22",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "exide industries limited::exide - digital product manager -  supply chain planning process": {
     "company": "Exide Industries Limited",
@@ -31747,7 +31747,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-08-22",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "antal international::product manager \u2013 sales management": {
     "company": "Antal International",
@@ -31773,7 +31773,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-22",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "agratas \u2013 a tata enterprise::product owner - pack technology": {
     "company": "Agratas \u2013 A Tata Enterprise",
@@ -31848,7 +31848,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-22",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
   },
   "lh2 ai labs::founding product manager": {
     "company": "LH2 AI Labs",
@@ -31984,6 +31984,51 @@
       "senior_role"
     ],
     "date_found": "2026-08-23",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-08-24"
+  },
+  "ekfrazo technologies private limited::weighing & dispensing product owner": {
+    "company": "Ekfrazo Technologies Private Limited",
+    "title": "Weighing & Dispensing Product Owner",
+    "ats_score": 42,
+    "fit_score": 44,
+    "reasoning": "The resume lacks many core manufacturing and compliance keywords required by the JD, resulting in low ATS and fit scores; the most important gap is the absence of any mention of Siemens Opcenter or GxP compliance.",
+    "missing_keywords": [
+      "Siemens Opcenter",
+      "GxP compliance",
+      "vendor management",
+      "release management",
+      "lifecycle management",
+      "Tulip",
+      "digital manufacturing",
+      "audit and inspection readiness"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-08-24",
+    "date_last_seen": "2026-08-24"
+  },
+  "iisreset technologies pvt ltd::product manager": {
+    "company": "IISReset Technologies Pvt Ltd",
+    "title": "Product Manager",
+    "ats_score": 68,
+    "fit_score": 75,
+    "reasoning": "No hard rule violations; the resume contains many relevant keywords but misses several common PM terms, leading to a moderate ATS score. Strong GenAI and SaaS experience improves the fit score.",
+    "missing_keywords": [
+      "OKRs",
+      "A/B testing",
+      "Mixpanel",
+      "Snowflake",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-08-24",
+    "date_last_seen": "2026-08-24"
   }
 }
