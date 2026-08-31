@@ -1615,7 +1615,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-07",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-31"
   },
   "axi::product manager - payments": {
     "company": "Axi",
@@ -4805,7 +4805,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-13",
-    "date_last_seen": "2026-08-30"
+    "date_last_seen": "2026-08-31"
   },
   "easyship::product manager (api)": {
     "company": "Easyship",
@@ -5959,7 +5959,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-15",
-    "date_last_seen": "2026-08-30"
+    "date_last_seen": "2026-08-31"
   },
   "bp::product manager": {
     "company": "bp",
@@ -11521,7 +11521,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-30",
-    "date_last_seen": "2026-08-25"
+    "date_last_seen": "2026-08-31"
   },
   "tesco technology::product manager": {
     "company": "Tesco Technology",
@@ -11545,7 +11545,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-30",
-    "date_last_seen": "2026-08-26"
+    "date_last_seen": "2026-08-31"
   },
   "deloitte::product owner - specialist manager, project - hyderabad": {
     "company": "Deloitte",
@@ -11733,7 +11733,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-30",
-    "date_last_seen": "2026-08-02"
+    "date_last_seen": "2026-08-31"
   },
   "capco::azure product manager": {
     "company": "Capco",
@@ -12270,7 +12270,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-06-02",
-    "date_last_seen": "2026-08-30"
+    "date_last_seen": "2026-08-31"
   },
   "hsbc::product manager": {
     "company": "HSBC",
@@ -13582,7 +13582,7 @@
       "strong_genai_fit"
     ],
     "date_found": "2026-06-06",
-    "date_last_seen": "2026-08-30"
+    "date_last_seen": "2026-08-31"
   },
   "coderabbit::product manager: console": {
     "company": "CodeRabbit",
@@ -14756,7 +14756,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-11",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-08-31"
   },
   "a.p. moller - maersk::associate platform product owner": {
     "company": "A.P. Moller - Maersk",
@@ -18947,7 +18947,7 @@
       "skills_gap"
     ],
     "date_found": "2026-06-26",
-    "date_last_seen": "2026-08-30"
+    "date_last_seen": "2026-08-31"
   },
   "hackajob::product manager - digital channels detection": {
     "company": "hackajob",
@@ -24552,7 +24552,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-07-19",
-    "date_last_seen": "2026-08-11"
+    "date_last_seen": "2026-08-31"
   },
   "takeda::digital pricing product owner": {
     "company": "Takeda",
@@ -29257,7 +29257,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-11",
-    "date_last_seen": "2026-08-30"
+    "date_last_seen": "2026-08-31"
   },
   "amazon::product manager, private brands": {
     "company": "Amazon",
@@ -30830,7 +30830,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-19",
-    "date_last_seen": "2026-08-30"
+    "date_last_seen": "2026-08-31"
   },
   "lam research::product manager 2": {
     "company": "Lam Research",
@@ -32983,7 +32983,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-29",
-    "date_last_seen": "2026-08-30"
+    "date_last_seen": "2026-08-31"
   },
   "stage 2 capital::technical product owner": {
     "company": "Stage 2 Capital",
@@ -33078,7 +33078,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-29",
-    "date_last_seen": "2026-08-30"
+    "date_last_seen": "2026-08-31"
   },
   "optum india::associate technical product manager": {
     "company": "Optum India",
@@ -33127,7 +33127,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-30",
-    "date_last_seen": "2026-08-30"
+    "date_last_seen": "2026-08-31"
   },
   "weekday ai (yc w21)::founding product manager": {
     "company": "Weekday AI (YC W21)",
@@ -33150,7 +33150,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-30",
-    "date_last_seen": "2026-08-30"
+    "date_last_seen": "2026-08-31"
   },
   "siemens healthineers::product owner (mr scanner software)": {
     "company": "Siemens Healthineers",
@@ -33174,6 +33174,125 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-30",
-    "date_last_seen": "2026-08-30"
+    "date_last_seen": "2026-08-31"
+  },
+  "zamp::product manager": {
+    "company": "Zamp",
+    "title": "Product Manager",
+    "ats_score": 55,
+    "fit_score": 78,
+    "reasoning": "Hard rules are satisfied; the resume meets the 4\u2011year experience requirement. ATS score is moderate due to few explicit JD keywords present, with the biggest gap being lack of common product\u2011management metrics and frameworks.",
+    "missing_keywords": [
+      "OKRs",
+      "A/B testing",
+      "KPI/metrics tracking",
+      "User research interviews",
+      "Roadmap planning"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "skills_match",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-08-31",
+    "date_last_seen": "2026-08-31"
+  },
+  "hyrezy tech solutions::product manager - growth": {
+    "company": "HYrEzy Tech Solutions",
+    "title": "Product Manager - Growth",
+    "ats_score": 48,
+    "fit_score": 45,
+    "reasoning": "Hard rules are satisfied (4 years experience, no senior title), but the resume lacks most growth\u2011specific keywords and healthtech experience, leading to low ATS and fit scores; the biggest gap is the absence of A/B testing and analytics tools like Mixpanel/Amplitude.",
+    "missing_keywords": [
+      "A/B testing",
+      "Mixpanel",
+      "Amplitude",
+      "Customer Acquisition Cost (CAC)",
+      "Lifetime Value (LTV)",
+      "Product\u2011led growth (PLG)",
+      "Referral program",
+      "Healthcare compliance (HIPAA/NDHM)",
+      "Performance marketing"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "strong_saas_fit"
+    ],
+    "date_found": "2026-08-31",
+    "date_last_seen": "2026-08-31"
+  },
+  "greythr::associate product manager": {
+    "company": "greytHR",
+    "title": "Associate Product Manager",
+    "ats_score": 68,
+    "fit_score": 62,
+    "reasoning": "The resume meets the 2\u2011year minimum and title alignment, but lacks many payroll\u2011specific terms, lowering the ATS score; the biggest keyword gap is the absence of statutory/compliance language.",
+    "missing_keywords": [
+      "statutory compliance",
+      "payroll processing",
+      "anomaly detection",
+      "AI\u2011driven compliance alerts",
+      "user personas",
+      "business process flows",
+      "customer success",
+      "global payroll"
+    ],
+    "fit_flags": [
+      "skills_match",
+      "domain_mismatch",
+      "strong_genai_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-08-31",
+    "date_last_seen": "2026-08-31"
+  },
+  "my3tech::product owner": {
+    "company": "My3Tech",
+    "title": "Product Owner",
+    "ats_score": 25,
+    "fit_score": 25,
+    "reasoning": "The JD requires 10+ years of experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the resume also lacks healthcare-specific terminology such as FHIR or Medicaid.",
+    "missing_keywords": [
+      "FHIR",
+      "HL7",
+      "Medicaid eligibility",
+      "claims processing",
+      "US healthcare regulations"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-08-31",
+    "date_last_seen": "2026-08-31"
+  },
+  "careernet::product owner": {
+    "company": "Careernet",
+    "title": "Product Owner",
+    "ats_score": 68,
+    "fit_score": 71,
+    "reasoning": "The resume meets the hard\u2011rule criteria (4 years experience, no senior title requirement). It contains many relevant keywords but misses several core JD terms such as MVP, product discovery, and sales\u2011focused metrics, limiting the ATS score. The strongest gap is the lack of explicit sales/CRM terminology.",
+    "missing_keywords": [
+      "MVP",
+      "product discovery",
+      "customer interviews",
+      "sales intelligence",
+      "CRM",
+      "Revenue Intelligence",
+      "OKRs",
+      "A/B testing",
+      "growth metrics (e.g., NPS, MAU)",
+      "competitive analysis"
+    ],
+    "fit_flags": [
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "skills_match",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-08-31",
+    "date_last_seen": "2026-08-31"
   }
 }
