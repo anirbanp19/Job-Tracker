@@ -7782,7 +7782,7 @@
       "skills_match"
     ],
     "date_found": "2026-05-20",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-07"
   },
   "ralph lauren::associate product manager-1": {
     "company": "Ralph Lauren",
@@ -8534,7 +8534,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-21",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-07"
   },
   "building ventures::product manager (ai/ml)": {
     "company": "Building Ventures",
@@ -9708,7 +9708,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-23",
-    "date_last_seen": "2026-08-17"
+    "date_last_seen": "2026-09-07"
   },
   "ust::product owner": {
     "company": "UST",
@@ -14032,7 +14032,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-09",
-    "date_last_seen": "2026-08-21"
+    "date_last_seen": "2026-09-07"
   },
   "seventh contact hiring solutions::product manager ii (widgets, micro frontend exp) with us based product company- remote.": {
     "company": "Seventh Contact Hiring Solutions",
@@ -14566,7 +14566,7 @@
       "skills_gap"
     ],
     "date_found": "2026-06-11",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-07"
   },
   "nightfall ai::product manager": {
     "company": "Nightfall AI",
@@ -20799,7 +20799,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-04",
-    "date_last_seen": "2026-08-17"
+    "date_last_seen": "2026-09-07"
   },
   "neo::product manager ii": {
     "company": "Neo",
@@ -25623,7 +25623,7 @@
       "senior_role"
     ],
     "date_found": "2026-07-24",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-07"
   },
   "vontier::data & ai product manager": {
     "company": "Vontier",
@@ -29514,7 +29514,7 @@
       "skills_gap"
     ],
     "date_found": "2026-08-12",
-    "date_last_seen": "2026-08-14"
+    "date_last_seen": "2026-09-07"
   },
   "sap::ai product manager (4 to 6 years), sap concur": {
     "company": "SAP",
@@ -32741,7 +32741,7 @@
       "skills_gap"
     ],
     "date_found": "2026-08-27",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-07"
   },
   "smartsheet::sr, product manager ii - gantt view (hybrid, bangalore)": {
     "company": "Smartsheet",
@@ -34215,7 +34215,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-05",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-07"
   },
   "base career::product manager, smart building platform": {
     "company": "Base Career",
@@ -34265,7 +34265,7 @@
       "skills_match"
     ],
     "date_found": "2026-09-05",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-07"
   },
   "volo health insurance tpa pvt ltd::product manager": {
     "company": "Volo Health Insurance TPA Pvt Ltd",
@@ -34312,7 +34312,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-09-05",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-07"
   },
   "ixceed solutions::openshift platform product manager": {
     "company": "iXceed Solutions",
@@ -34356,7 +34356,7 @@
       "skills_match"
     ],
     "date_found": "2026-09-05",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-07"
   },
   "abracon::associate product manager - rf & antenna": {
     "company": "Abracon",
@@ -34429,7 +34429,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-05",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-07"
   },
   "scopely::product manager performance - star trek fleet command": {
     "company": "Scopely",
@@ -34453,7 +34453,7 @@
       "skills_gap"
     ],
     "date_found": "2026-09-06",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-07"
   },
   "capgemini::fbs product owner iii": {
     "company": "Capgemini",
@@ -34479,5 +34479,28 @@
     ],
     "date_found": "2026-09-06",
     "date_last_seen": "2026-09-06"
+  },
+  "noon::product manager, logistics": {
+    "company": "noon",
+    "title": "Product Manager, Logistics",
+    "ats_score": 68,
+    "fit_score": 65,
+    "reasoning": "Hard rules pass; the resume contains many relevant product management keywords but lacks logistics\u2011specific terms, lowering the ATS score. The biggest gap is missing last\u2011mile delivery and DA onboarding language.",
+    "missing_keywords": [
+      "last-mile delivery",
+      "delivery associate onboarding",
+      "cost savings",
+      "OKRs",
+      "A/B testing",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-09-07",
+    "date_last_seen": "2026-09-07"
   }
 }
