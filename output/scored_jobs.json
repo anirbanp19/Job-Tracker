@@ -282,7 +282,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-05",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-08"
   },
   "simplilearn::product manager (growth)": {
     "company": "Simplilearn",
@@ -9708,7 +9708,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-23",
-    "date_last_seen": "2026-09-07"
+    "date_last_seen": "2026-09-08"
   },
   "ust::product owner": {
     "company": "UST",
@@ -13416,7 +13416,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-06",
-    "date_last_seen": "2026-09-06"
+    "date_last_seen": "2026-09-08"
   },
   "oracle::product manager/strategy 3-proddev": {
     "company": "Oracle",
@@ -17090,7 +17090,7 @@
       "skills_gap"
     ],
     "date_found": "2026-06-19",
-    "date_last_seen": "2026-09-05"
+    "date_last_seen": "2026-09-08"
   },
   "deltek::product manager": {
     "company": "Deltek",
@@ -21825,7 +21825,7 @@
       "strong_genai_fit"
     ],
     "date_found": "2026-07-08",
-    "date_last_seen": "2026-08-06"
+    "date_last_seen": "2026-09-08"
   },
   "earnifi::product manager, financial platform": {
     "company": "Earnifi",
@@ -25623,7 +25623,7 @@
       "senior_role"
     ],
     "date_found": "2026-07-24",
-    "date_last_seen": "2026-09-07"
+    "date_last_seen": "2026-09-08"
   },
   "vontier::data & ai product manager": {
     "company": "Vontier",
@@ -29514,7 +29514,7 @@
       "skills_gap"
     ],
     "date_found": "2026-08-12",
-    "date_last_seen": "2026-09-07"
+    "date_last_seen": "2026-09-08"
   },
   "sap::ai product manager (4 to 6 years), sap concur": {
     "company": "SAP",
@@ -30279,7 +30279,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-16",
-    "date_last_seen": "2026-08-16"
+    "date_last_seen": "2026-09-08"
   },
   "populace world solutions::technical product manager \u2013 healthcare": {
     "company": "Populace World Solutions",
@@ -33478,7 +33478,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-02",
-    "date_last_seen": "2026-09-04"
+    "date_last_seen": "2026-09-08"
   },
   "super humans::product manager": {
     "company": "Super Humans",
@@ -34453,7 +34453,7 @@
       "skills_gap"
     ],
     "date_found": "2026-09-06",
-    "date_last_seen": "2026-09-07"
+    "date_last_seen": "2026-09-08"
   },
   "capgemini::fbs product owner iii": {
     "company": "Capgemini",
@@ -34501,6 +34501,122 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-07",
-    "date_last_seen": "2026-09-07"
+    "date_last_seen": "2026-09-08"
+  },
+  "google::product manager, google partner innovation": {
+    "company": "Google",
+    "title": "Product Manager, Google Partner Innovation",
+    "ats_score": 68,
+    "fit_score": 65,
+    "reasoning": "The resume meets the 4\u2011year experience requirement and contains many core product management keywords, but lacks several AI\u2011specific terms from the JD, lowering both scores.",
+    "missing_keywords": [
+      "tool\u2011calling",
+      "memory management",
+      "evaluation pipelines",
+      "agentic AI",
+      "Vibe coding",
+      "large\u2011scale technical ecosystems",
+      "Google AI models",
+      "OKRs"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "skills_gap"
+    ],
+    "date_found": "2026-09-08",
+    "date_last_seen": "2026-09-08"
+  },
+  "jpmorganchase::securities services - data & ai product manager - vice president": {
+    "company": "JPMorganChase",
+    "title": "Securities Services - Data & AI Product Manager - Vice President",
+    "ats_score": 25,
+    "fit_score": 25,
+    "reasoning": "The JD requires 7+ years of experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the most important keyword gap is the lack of any data\u2011lake or cloud platform mentions (e.g., Databricks, Hadoop, Spark).",
+    "missing_keywords": [
+      "Databricks",
+      "Hadoop",
+      "Spark",
+      "AWS",
+      "Azure",
+      "data lake",
+      "metadata management",
+      "AI/ML model deployment",
+      "financial data"
+    ],
+    "fit_flags": [
+      "skills_gap",
+      "domain_match"
+    ],
+    "date_found": "2026-09-08",
+    "date_last_seen": "2026-09-08"
+  },
+  "chubb::technical product owner": {
+    "company": "Chubb",
+    "title": "Technical Product Owner",
+    "ats_score": 68,
+    "fit_score": 74,
+    "reasoning": "The candidate meets the 4\u2011year experience requirement and the title is appropriate, but the JD lacks many explicit keywords, resulting in moderate ATS coverage and a few key gaps.",
+    "missing_keywords": [
+      "OKRs",
+      "RICE prioritization",
+      "A/B testing",
+      "Mixpanel",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "skills_match",
+      "strong_saas_fit",
+      "strong_genai_fit"
+    ],
+    "date_found": "2026-09-08",
+    "date_last_seen": "2026-09-08"
+  },
+  "tripstack::product owner": {
+    "company": "tripstack",
+    "title": "Product Owner",
+    "ats_score": 68,
+    "fit_score": 78,
+    "reasoning": "Hard rules are satisfied (4 years experience, no senior title requirement). The resume contains many relevant product and SaaS keywords but misses several operational and flight\u2011specific terms, lowering the ATS score; domain alignment is strong, giving a solid fit score.",
+    "missing_keywords": [
+      "SLA adherence",
+      "incident management",
+      "root cause analysis (RCA)",
+      "operational KPIs (uptime, latency, booking failure rate)",
+      "API integration for flight content"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-09-08",
+    "date_last_seen": "2026-09-08"
+  },
+  "frnd::associate product manager": {
+    "company": "FRND",
+    "title": "Associate Product Manager",
+    "ats_score": 68,
+    "fit_score": 62,
+    "reasoning": "The candidate meets the 3\u2011year minimum (has 4 years) and title matches, but the resume lacks several core JD keywords such as A/B testing and cohort analysis, lowering the ATS score; the biggest gap is missing explicit experimentation/metrics terminology.",
+    "missing_keywords": [
+      "A/B testing",
+      "experiments",
+      "cohort analysis",
+      "funnel metrics",
+      "mobile\u2011first",
+      "growth metrics",
+      "consumer behavior research"
+    ],
+    "fit_flags": [
+      "skills_match",
+      "domain_mismatch",
+      "strong_genai_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-09-08",
+    "date_last_seen": "2026-09-08"
   }
 }
