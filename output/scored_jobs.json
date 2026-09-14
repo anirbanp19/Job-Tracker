@@ -2037,7 +2037,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-08",
-    "date_last_seen": "2026-07-21"
+    "date_last_seen": "2026-09-14"
   },
   "keyloop::product manager": {
     "company": "Keyloop",
@@ -11692,7 +11692,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-30",
-    "date_last_seen": "2026-08-25"
+    "date_last_seen": "2026-09-14"
   },
   "ctruh::ai product manager": {
     "company": "Ctruh",
@@ -17879,7 +17879,7 @@
       "skills_gap"
     ],
     "date_found": "2026-06-23",
-    "date_last_seen": "2026-08-26"
+    "date_last_seen": "2026-09-14"
   },
   "pepsico::digital product manager": {
     "company": "PepsiCo",
@@ -22063,7 +22063,7 @@
       "skills_gap"
     ],
     "date_found": "2026-07-09",
-    "date_last_seen": "2026-09-12"
+    "date_last_seen": "2026-09-14"
   },
   "pocket fm::ai product manager": {
     "company": "Pocket FM",
@@ -22530,7 +22530,7 @@
       "skills_match"
     ],
     "date_found": "2026-07-11",
-    "date_last_seen": "2026-08-25"
+    "date_last_seen": "2026-09-14"
   },
   "xoxoday::product manager (b2b rewards/loyalty/incentives, ai)": {
     "company": "Xoxoday",
@@ -23377,7 +23377,7 @@
       "senior_role"
     ],
     "date_found": "2026-07-14",
-    "date_last_seen": "2026-08-24"
+    "date_last_seen": "2026-09-14"
   },
   "evernorth health services::agile product owner advisor - hih - evernorth": {
     "company": "Evernorth Health Services",
@@ -25872,7 +25872,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-25",
-    "date_last_seen": "2026-09-10"
+    "date_last_seen": "2026-09-14"
   },
   "infinity learn::product manager": {
     "company": "Infinity Learn",
@@ -26725,7 +26725,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-07-30",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-09-14"
   },
   "syndigo::product manager": {
     "company": "Syndigo",
@@ -28734,7 +28734,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-08",
-    "date_last_seen": "2026-09-12"
+    "date_last_seen": "2026-09-14"
   },
   "philips::product manager igt-s": {
     "company": "Philips",
@@ -30573,7 +30573,7 @@
       "skills_gap"
     ],
     "date_found": "2026-08-19",
-    "date_last_seen": "2026-08-20"
+    "date_last_seen": "2026-09-14"
   },
   "yolo investments::product manager- search": {
     "company": "Yolo Investments",
@@ -31625,7 +31625,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-22",
-    "date_last_seen": "2026-08-24"
+    "date_last_seen": "2026-09-14"
   },
   "nudge::product manager": {
     "company": "Nudge",
@@ -31672,7 +31672,7 @@
       "domain_mismatch"
     ],
     "date_found": "2026-08-22",
-    "date_last_seen": "2026-09-12"
+    "date_last_seen": "2026-09-14"
   },
   "csc global financial markets::assistant vice president, payments product owner": {
     "company": "CSC Global Financial Markets",
@@ -35114,7 +35114,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-10",
-    "date_last_seen": "2026-09-12"
+    "date_last_seen": "2026-09-14"
   },
   "summit works technology::product manager": {
     "company": "Summit Works Technology",
@@ -35421,7 +35421,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-09-12",
-    "date_last_seen": "2026-09-12"
+    "date_last_seen": "2026-09-14"
   },
   "ai nexus innovations hub::product owner \u2013 hospital management system (medorbit)": {
     "company": "AI Nexus Innovations Hub",
@@ -35471,7 +35471,7 @@
       "domain_match"
     ],
     "date_found": "2026-09-12",
-    "date_last_seen": "2026-09-12"
+    "date_last_seen": "2026-09-14"
   },
   "barclays::launch and integration product manager": {
     "company": "Barclays",
@@ -35522,7 +35522,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-12",
-    "date_last_seen": "2026-09-12"
+    "date_last_seen": "2026-09-14"
   },
   "ags health::product manager": {
     "company": "AGS Health",
@@ -35567,6 +35567,76 @@
       "skills_gap"
     ],
     "date_found": "2026-09-12",
-    "date_last_seen": "2026-09-12"
+    "date_last_seen": "2026-09-14"
+  },
+  "adobe::product manager (growth - b2b enterprise)": {
+    "company": "Adobe",
+    "title": "Product Manager (Growth - B2B Enterprise)",
+    "ats_score": 68,
+    "fit_score": 78,
+    "reasoning": "Hard rules are satisfied (4 years experience, no senior title requirement). The resume covers many core product management terms but misses several PLG\u2011specific keywords, lowering the ATS score; the strongest gap is the lack of explicit PLG and A/B testing experience.",
+    "missing_keywords": [
+      "Product\u2011Led Growth (PLG)",
+      "A/B testing",
+      "Go\u2011to\u2011market strategy",
+      "Usage analytics",
+      "Dashboard / funnel analysis",
+      "OKRs",
+      "Enterprise adoption metrics"
+    ],
+    "fit_flags": [
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "domain_match",
+      "skills_match",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-09-14",
+    "date_last_seen": "2026-09-14"
+  },
+  "arrowhead::technical product manager(ai products)": {
+    "company": "Arrowhead",
+    "title": "Technical Product Manager(AI Products)",
+    "ats_score": 55,
+    "fit_score": 78,
+    "reasoning": "Hard rules are satisfied (4 years experience, no senior title). ATS score is moderate due to missing several JD-specific terms like RICE, JTBD, and explicit AI model evaluation, while fit score is high because the candidate's GenAI and enterprise SaaS experience aligns well with the role.",
+    "missing_keywords": [
+      "RICE prioritization",
+      "Jobs-to-be-Done (JTBD)",
+      "success metrics/dashboard (e.g., KPI, NPS)",
+      "AI model evaluation and guardrails",
+      "competitor analysis",
+      "sales/customer success collaboration",
+      "program coordination"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-09-14",
+    "date_last_seen": "2026-09-14"
+  },
+  "ablecredit - genai infra for bfsi::product manager": {
+    "company": "AbleCredit - GenAI Infra for BFSI",
+    "title": "Product Manager",
+    "ats_score": 78,
+    "fit_score": 82,
+    "reasoning": "Hard rules pass; the resume contains most key terms and aligns with the Associate PM level, but lacks explicit API/integration and analytics keywords.",
+    "missing_keywords": [
+      "APIs",
+      "integration",
+      "analytics",
+      "success metrics",
+      "feedback loops"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "domain_match",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-09-14",
+    "date_last_seen": "2026-09-14"
   }
 }
