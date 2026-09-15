@@ -2037,7 +2037,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-08",
-    "date_last_seen": "2026-09-14"
+    "date_last_seen": "2026-09-15"
   },
   "keyloop::product manager": {
     "company": "Keyloop",
@@ -11692,7 +11692,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-30",
-    "date_last_seen": "2026-09-14"
+    "date_last_seen": "2026-09-15"
   },
   "ctruh::ai product manager": {
     "company": "Ctruh",
@@ -17879,7 +17879,7 @@
       "skills_gap"
     ],
     "date_found": "2026-06-23",
-    "date_last_seen": "2026-09-14"
+    "date_last_seen": "2026-09-15"
   },
   "pepsico::digital product manager": {
     "company": "PepsiCo",
@@ -22530,7 +22530,7 @@
       "skills_match"
     ],
     "date_found": "2026-07-11",
-    "date_last_seen": "2026-09-14"
+    "date_last_seen": "2026-09-15"
   },
   "xoxoday::product manager (b2b rewards/loyalty/incentives, ai)": {
     "company": "Xoxoday",
@@ -23377,7 +23377,7 @@
       "senior_role"
     ],
     "date_found": "2026-07-14",
-    "date_last_seen": "2026-09-14"
+    "date_last_seen": "2026-09-15"
   },
   "evernorth health services::agile product owner advisor - hih - evernorth": {
     "company": "Evernorth Health Services",
@@ -26725,7 +26725,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-07-30",
-    "date_last_seen": "2026-09-14"
+    "date_last_seen": "2026-09-15"
   },
   "syndigo::product manager": {
     "company": "Syndigo",
@@ -31625,7 +31625,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-22",
-    "date_last_seen": "2026-09-14"
+    "date_last_seen": "2026-09-15"
   },
   "nudge::product manager": {
     "company": "Nudge",
@@ -35592,7 +35592,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-14",
-    "date_last_seen": "2026-09-14"
+    "date_last_seen": "2026-09-15"
   },
   "arrowhead::technical product manager(ai products)": {
     "company": "Arrowhead",
@@ -35615,7 +35615,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-14",
-    "date_last_seen": "2026-09-14"
+    "date_last_seen": "2026-09-15"
   },
   "ablecredit - genai infra for bfsi::product manager": {
     "company": "AbleCredit - GenAI Infra for BFSI",
@@ -35637,6 +35637,144 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-09-14",
-    "date_last_seen": "2026-09-14"
+    "date_last_seen": "2026-09-15"
+  },
+  "societe generale global solution centre::manager- software product owner(spo)": {
+    "company": "Societe Generale Global Solution Centre",
+    "title": "Manager- Software Product Owner(SPO)",
+    "ats_score": 25,
+    "fit_score": 22,
+    "reasoning": "The JD requires 15+ years of experience, far exceeding the candidate's 4 years, triggering a hard rule that caps both scores below 30; the most important keyword gap is the lack of any data\u2011warehouse/ETL tools such as Snowflake or IBM DataStage.",
+    "missing_keywords": [
+      "Snowflake",
+      "IBM DataStage",
+      "Credit Risk",
+      "ETL",
+      "Data Warehouse"
+    ],
+    "fit_flags": [
+      "senior_role",
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-09-15",
+    "date_last_seen": "2026-09-15"
+  },
+  "huntingcube::product manager - ai native platform build": {
+    "company": "HuntingCube",
+    "title": "Product Manager - AI Native Platform Build",
+    "ats_score": 68,
+    "fit_score": 65,
+    "reasoning": "The candidate meets the 4\u2011year experience requirement and title level, but the resume lacks several JD\u2011specific AI\u2011native terms, lowering the ATS score; the biggest keyword gap is the absence of \"LLM\u2011in\u2011the\u2011loop\"/\"embeddings\".",
+    "missing_keywords": [
+      "LLM-in-the-loop",
+      "embeddings",
+      "agentic workflows",
+      "evaluation suite",
+      "real estate marketplace",
+      "user interview insights",
+      "prototype code (Cursor)",
+      "product roadmap"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "domain_match",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-09-15",
+    "date_last_seen": "2026-09-15"
+  },
+  "itc infotech::customer fulfilment product manager": {
+    "company": "ITC Infotech",
+    "title": "Customer Fulfilment Product Manager",
+    "ats_score": 38,
+    "fit_score": 45,
+    "reasoning": "Hard rules are satisfied, but the resume lacks most JD-specific terms such as SAP TMS, IDT platform, and supply chain fulfillment, resulting in a low ATS match; the biggest gap is the absence of supply chain and vendor governance keywords.",
+    "missing_keywords": [
+      "SAP TMS",
+      "IDT platform",
+      "OKRs",
+      "DevSecOps",
+      "Total Cost of Ownership",
+      "vendor governance",
+      "supply chain fulfillment",
+      "data privacy",
+      "regulatory compliance"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-09-15",
+    "date_last_seen": "2026-09-15"
+  },
+  "synthires::product manager (remote | $90\u2013$140/hr)": {
+    "company": "Synthires",
+    "title": "Product Manager (Remote | $90\u2013$140/hr)",
+    "ats_score": 25,
+    "fit_score": 28,
+    "reasoning": "The JD requires 5+ years of product management experience, but the candidate has only 4 years, triggering a hard rule that caps both scores below 30; the most important keyword gap is the absence of any mention of OKRs or JTBD.",
+    "missing_keywords": [
+      "OKRs",
+      "Jobs-to-be-Done",
+      "RICE prioritization",
+      "Productboard",
+      "Mixpanel",
+      "A/B testing",
+      "platform/API product management",
+      "product-led growth"
+    ],
+    "fit_flags": [
+      "skills_gap",
+      "domain_match"
+    ],
+    "date_found": "2026-09-15",
+    "date_last_seen": "2026-09-15"
+  },
+  "harman india::automotive product manager - (hw, sw, mech, hud/display, gtm)": {
+    "company": "HARMAN India",
+    "title": "Automotive Product Manager - (HW, SW, Mech, HUD/Display, GTM)",
+    "ats_score": 42,
+    "fit_score": 45,
+    "reasoning": "The resume lacks core automotive and hardware/software keywords required by the JD and does not demonstrate location alignment, resulting in a low ATS score; the candidate's SaaS and GenAI background only tangentially matches the automotive cockpit domain, leading to a modest fit score.",
+    "missing_keywords": [
+      "HUD",
+      "In-vehicle infotainment",
+      "OEM integration",
+      "TAM/SAM/SOM",
+      "MRD",
+      "PRD",
+      "platform reuse",
+      "system-level integration",
+      "make & buy analysis"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-09-15",
+    "date_last_seen": "2026-09-15"
+  },
+  "asktalos::technical product manager (b2b saas)": {
+    "company": "AskTalos",
+    "title": "Technical Product Manager (B2B SaaS)",
+    "ats_score": 25,
+    "fit_score": 28,
+    "reasoning": "The candidate does not meet the minimum 4 years of experience required, triggering a hard rule that forces both scores below 30; the most important keyword gap is the lack of explicit experience with \"product demonstrations\" and \"CRM integrations\".",
+    "missing_keywords": [
+      "product demonstrations",
+      "CRM integrations",
+      "API integrations",
+      "customer onboarding",
+      "solution consulting"
+    ],
+    "fit_flags": [
+      "skills_gap",
+      "domain_match"
+    ],
+    "date_found": "2026-09-15",
+    "date_last_seen": "2026-09-15"
   }
 }
