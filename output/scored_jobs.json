@@ -2017,7 +2017,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-05-08",
-    "date_last_seen": "2026-09-03"
+    "date_last_seen": "2026-09-22"
   },
   "amazon::product manager-tech iii, finance automation": {
     "company": "Amazon",
@@ -5959,7 +5959,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-15",
-    "date_last_seen": "2026-09-21"
+    "date_last_seen": "2026-09-22"
   },
   "bp::product manager": {
     "company": "bp",
@@ -8462,7 +8462,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-21",
-    "date_last_seen": "2026-08-25"
+    "date_last_seen": "2026-09-22"
   },
   "thomson reuters::associate product manager": {
     "company": "Thomson Reuters",
@@ -14732,7 +14732,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-11",
-    "date_last_seen": "2026-07-15"
+    "date_last_seen": "2026-09-22"
   },
   "chevron::digital product owner": {
     "company": "Chevron",
@@ -14756,7 +14756,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-11",
-    "date_last_seen": "2026-09-01"
+    "date_last_seen": "2026-09-22"
   },
   "a.p. moller - maersk::associate platform product owner": {
     "company": "A.P. Moller - Maersk",
@@ -21020,7 +21020,7 @@
       "skills_gap"
     ],
     "date_found": "2026-07-04",
-    "date_last_seen": "2026-09-21"
+    "date_last_seen": "2026-09-22"
   },
   "tazapay::product manager, payments": {
     "company": "Tazapay",
@@ -24007,7 +24007,7 @@
       "domain_mismatch"
     ],
     "date_found": "2026-07-17",
-    "date_last_seen": "2026-07-23"
+    "date_last_seen": "2026-09-22"
   },
   "geoiq::associate product manager": {
     "company": "GeoIQ",
@@ -29370,7 +29370,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-11",
-    "date_last_seen": "2026-09-03"
+    "date_last_seen": "2026-09-22"
   },
   "mastercard::product manager, card on file tokenization (localization)": {
     "company": "Mastercard",
@@ -31295,7 +31295,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-21",
-    "date_last_seen": "2026-09-21"
+    "date_last_seen": "2026-09-22"
   },
   "pixxel::image product manager": {
     "company": "Pixxel",
@@ -31600,7 +31600,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-22",
-    "date_last_seen": "2026-09-21"
+    "date_last_seen": "2026-09-22"
   },
   "ema::product manager": {
     "company": "Ema",
@@ -33078,7 +33078,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-29",
-    "date_last_seen": "2026-09-21"
+    "date_last_seen": "2026-09-22"
   },
   "optum india::associate technical product manager": {
     "company": "Optum India",
@@ -33127,7 +33127,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-30",
-    "date_last_seen": "2026-09-21"
+    "date_last_seen": "2026-09-22"
   },
   "weekday ai (yc w21)::founding product manager": {
     "company": "Weekday AI (YC W21)",
@@ -34265,7 +34265,7 @@
       "skills_match"
     ],
     "date_found": "2026-09-05",
-    "date_last_seen": "2026-09-07"
+    "date_last_seen": "2026-09-22"
   },
   "volo health insurance tpa pvt ltd::product manager": {
     "company": "Volo Health Insurance TPA Pvt Ltd",
@@ -36653,7 +36653,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-20",
-    "date_last_seen": "2026-09-20"
+    "date_last_seen": "2026-09-22"
   },
   "mco (mycomplianceoffice)::data product owner": {
     "company": "MCO (MyComplianceOffice)",
@@ -36720,7 +36720,7 @@
       "skills_match"
     ],
     "date_found": "2026-09-21",
-    "date_last_seen": "2026-09-21"
+    "date_last_seen": "2026-09-22"
   },
   "kanerika inc::product manager": {
     "company": "Kanerika Inc",
@@ -36746,6 +36746,189 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-21",
-    "date_last_seen": "2026-09-21"
+    "date_last_seen": "2026-09-22"
+  },
+  "hp::product manager, customer support api platform": {
+    "company": "HP",
+    "title": "Product Manager, Customer Support API Platform",
+    "ats_score": 28,
+    "fit_score": 27,
+    "reasoning": "The JD requires 8+ years of product management experience, but the candidate has only 4 years, triggering a hard rule that forces both scores below 30; the most important keyword gap is the lack of any API or integration platform experience.",
+    "missing_keywords": [
+      "API design",
+      "microservices",
+      "cloud platform",
+      "developer engagement",
+      "API governance",
+      "security standards",
+      "platform roadmap"
+    ],
+    "fit_flags": [
+      "senior_role",
+      "skills_gap"
+    ],
+    "date_found": "2026-09-22",
+    "date_last_seen": "2026-09-22"
+  },
+  "comviva::product manager": {
+    "company": "Comviva",
+    "title": "Product Manager",
+    "ats_score": 25,
+    "fit_score": 28,
+    "reasoning": "The JD requires 9\u201114 years of AI/ML product management experience, but the candidate has only 4 years, triggering a hard rule that caps both scores below 30; the biggest keyword gap is the lack of any mention of model registry, versioning, or drift detection.",
+    "missing_keywords": [
+      "model registry",
+      "versioning",
+      "drift detection",
+      "real\u2011time model scoring",
+      "agent authoring tools",
+      "workflow builder",
+      "decision orchestration engine"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "strong_genai_fit",
+      "skills_gap"
+    ],
+    "date_found": "2026-09-22",
+    "date_last_seen": "2026-09-22"
+  },
+  "philips::product manager, g&b digital products, phdsi": {
+    "company": "Philips",
+    "title": "Product Manager, G&B Digital Products, PHDSI",
+    "ats_score": 55,
+    "fit_score": 60,
+    "reasoning": "Hard rules are satisfied (4 years experience, no senior title requirement). The resume misses several core JD terms such as product roadmap, go\u2011to\u2011market, business case, and KPI tracking, lowering the ATS score; the biggest keyword gap is the absence of any mention of a product roadmap.",
+    "missing_keywords": [
+      "product roadmap",
+      "go-to-market strategy",
+      "business case development",
+      "KPIs (adoption, engagement, funnel performance)",
+      "claims strategy",
+      "regulatory compliance",
+      "consumer insights",
+      "launch readiness",
+      "market readiness"
+    ],
+    "fit_flags": [
+      "skills_match",
+      "domain_mismatch",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-09-22",
+    "date_last_seen": "2026-09-22"
+  },
+  "pharmed limited::product manager - pharmaceuticals (gynae portfolio)": {
+    "company": "Pharmed Limited",
+    "title": "Product Manager - Pharmaceuticals (Gynae Portfolio)",
+    "ats_score": 42,
+    "fit_score": 34,
+    "reasoning": "The candidate meets the 3\u2011year minimum and location requirement, but the resume lacks core pharmaceutical marketing keywords and domain experience, resulting in low ATS and fit scores; the biggest gap is missing pharma brand management terminology.",
+    "missing_keywords": [
+      "pharmaceutical brand management",
+      "marketing strategy",
+      "promotional materials",
+      "fieldwork with sales team",
+      "CMEs and conference participation",
+      "market dynamics analysis",
+      "regulatory compliance"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-09-22",
+    "date_last_seen": "2026-09-22"
+  },
+  "innova esi::product owner (healthcare domain)": {
+    "company": "Innova ESI",
+    "title": "Product Owner (Healthcare Domain)",
+    "ats_score": 25,
+    "fit_score": 20,
+    "reasoning": "The JD requires 5+ years of experience, but the candidate has only 4+ years, triggering a hard rule that forces both scores below 30; the resume also lacks key healthcare and Scrum-specific terminology.",
+    "missing_keywords": [
+      "Scrum",
+      "Product Owner",
+      "SOX compliance",
+      "Release Train Engineer",
+      "Scaled Agile Framework",
+      "backlog grooming",
+      "healthcare domain"
+    ],
+    "fit_flags": [
+      "skills_gap",
+      "domain_mismatch"
+    ],
+    "date_found": "2026-09-22",
+    "date_last_seen": "2026-09-22"
+  },
+  "blue spire inc::product owner": {
+    "company": "Blue Spire Inc",
+    "title": "Product Owner",
+    "ats_score": 25,
+    "fit_score": 25,
+    "reasoning": "Hard rules apply because the JD requires 10+ years and senior level, while the candidate has only 4 years; therefore both scores are forced below 30, with the biggest keyword gap being lack of Amazon Connect/LLM specific terms.",
+    "missing_keywords": [
+      "Amazon Connect",
+      "Amazon Lex",
+      "Large Language Models (LLMs)",
+      "IVR",
+      "call containment",
+      "first contact resolution (FCR)",
+      "AWS",
+      "product roadmap"
+    ],
+    "fit_flags": [
+      "senior_role",
+      "skills_gap"
+    ],
+    "date_found": "2026-09-22",
+    "date_last_seen": "2026-09-22"
+  },
+  "innova esi::product owner / capability manager": {
+    "company": "Innova ESI",
+    "title": "Product Owner / Capability Manager",
+    "ats_score": 28,
+    "fit_score": 27,
+    "reasoning": "The JD requires 5+ years of experience; the candidate has only 4 years, triggering a hard rule that forces both scores below 30. The most important keyword gap is the lack of explicit \"Scrum\" and \"Product Owner\" terminology.",
+    "missing_keywords": [
+      "Scrum",
+      "Product Owner",
+      "SOX compliance",
+      "Release Train Engineer",
+      "Scaled Agile Framework (SAFe)",
+      "AS400",
+      "claim adjudication"
+    ],
+    "fit_flags": [
+      "senior_role",
+      "skills_gap"
+    ],
+    "date_found": "2026-09-22",
+    "date_last_seen": "2026-09-22"
+  },
+  "pharmed limited::assistant product manager - pharmaceuticals (ortho portfolio)": {
+    "company": "Pharmed Limited",
+    "title": "Assistant Product Manager - Pharmaceuticals (Ortho Portfolio)",
+    "ats_score": 48,
+    "fit_score": 40,
+    "reasoning": "The candidate meets the years and location requirements, but the resume lacks many pharma\u2011specific marketing keywords and domain experience, leading to low ATS and fit scores; the biggest gap is the absence of pharmaceutical brand management terminology.",
+    "missing_keywords": [
+      "pharmaceutical brand management",
+      "marketing strategy development",
+      "promotional material creation",
+      "fieldwork with sales team",
+      "market insights gathering",
+      "competitive activity tracking",
+      "conference and CME participation",
+      "presentation skills"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-09-22",
+    "date_last_seen": "2026-09-22"
   }
 }
