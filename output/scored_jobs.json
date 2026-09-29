@@ -4155,7 +4155,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-13",
-    "date_last_seen": "2026-07-09"
+    "date_last_seen": "2026-09-29"
   },
   "wisemonk::product manager": {
     "company": "Wisemonk",
@@ -6598,7 +6598,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-05-16",
-    "date_last_seen": "2026-09-25"
+    "date_last_seen": "2026-09-29"
   },
   "electronic arts (ea)::knowledge product manager": {
     "company": "Electronic Arts (EA)",
@@ -8534,7 +8534,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-21",
-    "date_last_seen": "2026-09-27"
+    "date_last_seen": "2026-09-29"
   },
   "building ventures::product manager (ai/ml)": {
     "company": "Building Ventures",
@@ -9708,7 +9708,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-23",
-    "date_last_seen": "2026-09-08"
+    "date_last_seen": "2026-09-29"
   },
   "ust::product owner": {
     "company": "UST",
@@ -12369,7 +12369,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-02",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-09-29"
   },
   "cg-vak software & exports ltd.::product manager (order-to-cash, fintech)": {
     "company": "CG-VAK Software & Exports Ltd.",
@@ -14032,7 +14032,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-09",
-    "date_last_seen": "2026-09-27"
+    "date_last_seen": "2026-09-29"
   },
   "seventh contact hiring solutions::product manager ii (widgets, micro frontend exp) with us based product company- remote.": {
     "company": "Seventh Contact Hiring Solutions",
@@ -17090,7 +17090,7 @@
       "skills_gap"
     ],
     "date_found": "2026-06-19",
-    "date_last_seen": "2026-09-10"
+    "date_last_seen": "2026-09-29"
   },
   "deltek::product manager": {
     "company": "Deltek",
@@ -19549,7 +19549,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-28",
-    "date_last_seen": "2026-09-27"
+    "date_last_seen": "2026-09-29"
   },
   "finkraft::product manager": {
     "company": "Finkraft",
@@ -21114,7 +21114,7 @@
       "skills_gap"
     ],
     "date_found": "2026-07-05",
-    "date_last_seen": "2026-08-17"
+    "date_last_seen": "2026-09-29"
   },
   "kutumb::product manager - crafto": {
     "company": "Kutumb",
@@ -29809,7 +29809,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-14",
-    "date_last_seen": "2026-09-27"
+    "date_last_seen": "2026-09-29"
   },
   "albertsons companies india::digital product manager [t500-28501]": {
     "company": "Albertsons Companies India",
@@ -33902,7 +33902,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-03",
-    "date_last_seen": "2026-09-27"
+    "date_last_seen": "2026-09-29"
   },
   "paypal::product manager": {
     "company": "PayPal",
@@ -34549,7 +34549,7 @@
       "domain_match"
     ],
     "date_found": "2026-09-08",
-    "date_last_seen": "2026-09-10"
+    "date_last_seen": "2026-09-29"
   },
   "chubb::technical product owner": {
     "company": "Chubb",
@@ -34593,7 +34593,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-08",
-    "date_last_seen": "2026-09-10"
+    "date_last_seen": "2026-09-29"
   },
   "frnd::associate product manager": {
     "company": "FRND",
@@ -34803,7 +34803,7 @@
       "skills_gap"
     ],
     "date_found": "2026-09-09",
-    "date_last_seen": "2026-09-09"
+    "date_last_seen": "2026-09-29"
   },
   "spotdraft::associate product manager": {
     "company": "SpotDraft",
@@ -36207,7 +36207,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-09-17",
-    "date_last_seen": "2026-09-19"
+    "date_last_seen": "2026-09-29"
   },
   "gobabygo ev::product manager": {
     "company": "GobabyGo EV",
@@ -37199,7 +37199,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-09-23",
-    "date_last_seen": "2026-09-24"
+    "date_last_seen": "2026-09-29"
   },
   "innova esi::product owner \u2013 pbm / pharmacy benefits": {
     "company": "Innova ESI",
@@ -37916,7 +37916,7 @@
       "skills_gap"
     ],
     "date_found": "2026-09-27",
-    "date_last_seen": "2026-09-27"
+    "date_last_seen": "2026-09-29"
   },
   "aimleap::product manager - saas- 4 to 6 years": {
     "company": "AIMLEAP",
@@ -37943,5 +37943,192 @@
     ],
     "date_found": "2026-09-27",
     "date_last_seen": "2026-09-27"
+  },
+  "amazon::product manager-ii, amazon send": {
+    "company": "Amazon",
+    "title": "Product Manager-II, Amazon SEND",
+    "ats_score": 38,
+    "fit_score": 68,
+    "reasoning": "The resume meets the hard rules (4 years experience, no senior title), but keyword overlap with the Amazon SEND JD is limited, especially around logistics, finance, and go\u2011to\u2011market concepts.",
+    "missing_keywords": [
+      "go-to-market plan",
+      "PR/FAQs",
+      "finance collaboration",
+      "marketing partnership",
+      "cross\u2011border logistics",
+      "seller experience",
+      "usage analytics",
+      "A/B testing"
+    ],
+    "fit_flags": [
+      "skills_match",
+      "domain_match",
+      "strong_genai_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-09-29",
+    "date_last_seen": "2026-09-29"
+  },
+  "thermo fisher scientific::global product manager, antibody solutions": {
+    "company": "Thermo Fisher Scientific",
+    "title": "Global Product Manager, Antibody Solutions",
+    "ats_score": 68,
+    "fit_score": 55,
+    "reasoning": "No hard rule violations; the resume contains many generic product management terms but lacks several JD\u2011specific keywords and domain experience in life\u2011sciences, leading to a moderate ATS score and a lower fit score.",
+    "missing_keywords": [
+      "Voice of Customer (VOC)",
+      "Strategic marketing",
+      "Product roadmap ownership",
+      "Matrixed organization collaboration",
+      "Go\u2011to\u2011market strategy"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-09-29",
+    "date_last_seen": "2026-09-29"
+  },
+  "schneider electric::product manager": {
+    "company": "Schneider Electric",
+    "title": "Product Manager",
+    "ats_score": 28,
+    "fit_score": 27,
+    "reasoning": "The JD is for a senior Product Manager role; the candidate is an Associate Product Manager, triggering the senior\u2011title hard rule, so both scores must be below 30. The resume also lacks several core JD keywords such as \"go\u2011to\u2011market\", \"SAFe\", and \"product increment\".",
+    "missing_keywords": [
+      "go-to-market strategy",
+      "Scaled Agile Framework (SAFe)",
+      "Product Increment (PI) planning",
+      "OKRs",
+      "A/B testing"
+    ],
+    "fit_flags": [
+      "senior_role",
+      "skills_gap"
+    ],
+    "date_found": "2026-09-29",
+    "date_last_seen": "2026-09-29"
+  },
+  "rak ceramics::product manager": {
+    "company": "RAK Ceramics",
+    "title": "Product Manager",
+    "ats_score": 45,
+    "fit_score": 55,
+    "reasoning": "Hard rules pass (4 years experience, no senior title requirement). ATS score is low due to missing core domain keywords (sanitaryware, P&L, route-to-retail, go-to-market, dealer enablement) and limited tool overlap. Fit score reflects transferable product skills but weak domain alignment with ceramics.",
+    "missing_keywords": [
+      "P&L ownership",
+      "route-to-retail",
+      "go-to-market execution",
+      "dealer enablement",
+      "sanitaryware/bathware/faucets portfolio",
+      "margin improvement",
+      "market insights",
+      "OKRs",
+      "A/B testing"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_match",
+      "strong_saas_fit"
+    ],
+    "date_found": "2026-09-29",
+    "date_last_seen": "2026-09-29"
+  },
+  "creospan private limited::product owner (capital markets+agile environment)": {
+    "company": "Creospan Private Limited",
+    "title": "Product Owner (Capital Markets+Agile environment)",
+    "ats_score": 58,
+    "fit_score": 48,
+    "reasoning": "The resume meets the hard rules but lacks many finance\u2011specific keywords and domain experience, lowering both ATS and fit scores; the most important gap is the absence of custody/trade settlement terminology.",
+    "missing_keywords": [
+      "Custody",
+      "Trade Settlement",
+      "Asset Servicing",
+      "SWIFT 15022",
+      "ISO 20022",
+      "Financial product lifecycle",
+      "Regulatory compliance",
+      "Risk reduction",
+      "Market and competitor analysis"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor",
+      "strong_saas_fit"
+    ],
+    "date_found": "2026-09-29",
+    "date_last_seen": "2026-09-29"
+  },
+  "creospan private limited::product owner": {
+    "company": "Creospan Private Limited",
+    "title": "Product Owner",
+    "ats_score": 25,
+    "fit_score": 25,
+    "reasoning": "Hard rule triggered: JD requires 8-10 years total experience (greater than candidate's 4 years), so both scores must be below 30; the most important keyword gap is lack of explicit trade lifecycle and post\u2011trade workflow terms.",
+    "missing_keywords": [
+      "Trade Lifecycle",
+      "post\u2011trade workflows",
+      "SWIFT 15022",
+      "ISO 2022",
+      "Custody Operations"
+    ],
+    "fit_flags": [
+      "skills_gap",
+      "domain_mismatch",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-09-29",
+    "date_last_seen": "2026-09-29"
+  },
+  "kadence::product manager \u2013 website growth": {
+    "company": "Kadence",
+    "title": "Product Manager \u2013 Website Growth",
+    "ats_score": 66,
+    "fit_score": 62,
+    "reasoning": "The candidate meets the 4\u2011year experience requirement and seniority constraints, but the resume lacks several core website\u2011growth tools and e\u2011commerce terminology, lowering both scores.",
+    "missing_keywords": [
+      "Google Analytics 4",
+      "Google Search Console",
+      "Microsoft Clarity",
+      "Hotjar",
+      "A/B testing",
+      "Conversion Rate Optimization (CRO)",
+      "Average Order Value (AOV)",
+      "Customer Retention",
+      "E\u2011commerce",
+      "Website roadmap"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "strong_saas_fit"
+    ],
+    "date_found": "2026-09-29",
+    "date_last_seen": "2026-09-29"
+  },
+  "dentsu::product owner": {
+    "company": "dentsu",
+    "title": "Product Owner",
+    "ats_score": 78,
+    "fit_score": 82,
+    "reasoning": "Hard rules are satisfied (4 years experience, no senior title requirement). The resume covers most core keywords but lacks several JD\u2011specific tools and frameworks.",
+    "missing_keywords": [
+      "OKRs",
+      "A/B testing",
+      "Mixpanel",
+      "RICE prioritization",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-09-29",
+    "date_last_seen": "2026-09-29"
   }
 }
