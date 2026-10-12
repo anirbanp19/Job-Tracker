@@ -3319,7 +3319,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-10",
-    "date_last_seen": "2026-10-11"
+    "date_last_seen": "2026-10-12"
   },
   "sanofi::digital r&d lab equipment automation jr. product owner": {
     "company": "Sanofi",
@@ -7853,7 +7853,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-20",
-    "date_last_seen": "2026-06-27"
+    "date_last_seen": "2026-10-12"
   },
   "mckinsey & company::product manager ii - reach & engagement": {
     "company": "McKinsey & Company",
@@ -14470,7 +14470,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-10",
-    "date_last_seen": "2026-10-11"
+    "date_last_seen": "2026-10-12"
   },
   "domnic lewis::product manager procurement": {
     "company": "Domnic Lewis",
@@ -20973,7 +20973,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-04",
-    "date_last_seen": "2026-08-17"
+    "date_last_seen": "2026-10-12"
   },
   "gravity infosolutions, inc.::ai agent product owner": {
     "company": "Gravity Infosolutions, Inc.",
@@ -21020,7 +21020,7 @@
       "skills_gap"
     ],
     "date_found": "2026-07-04",
-    "date_last_seen": "2026-09-24"
+    "date_last_seen": "2026-10-12"
   },
   "tazapay::product manager, payments": {
     "company": "Tazapay",
@@ -23353,7 +23353,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-07-14",
-    "date_last_seen": "2026-10-11"
+    "date_last_seen": "2026-10-12"
   },
   "thomson reuters::technical product manager, ciam": {
     "company": "Thomson Reuters",
@@ -24187,7 +24187,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-17",
-    "date_last_seen": "2026-07-17"
+    "date_last_seen": "2026-10-12"
   },
   "inmobi advertising::product manager - central data repository for people analytics & ai/automation.": {
     "company": "InMobi Advertising",
@@ -28286,7 +28286,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-06",
-    "date_last_seen": "2026-08-08"
+    "date_last_seen": "2026-10-12"
   },
   "verse innovation::product manager": {
     "company": "VerSe Innovation",
@@ -28712,7 +28712,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-08",
-    "date_last_seen": "2026-08-10"
+    "date_last_seen": "2026-10-12"
   },
   "target::product manager - marketplace": {
     "company": "Target",
@@ -37406,7 +37406,7 @@
       "domain_match"
     ],
     "date_found": "2026-09-24",
-    "date_last_seen": "2026-10-11"
+    "date_last_seen": "2026-10-12"
   },
   "worldpay::product manager (digital products, payments) - pune \u2013 7+ years exp": {
     "company": "Worldpay",
@@ -38366,7 +38366,7 @@
       "skills_match"
     ],
     "date_found": "2026-09-30",
-    "date_last_seen": "2026-09-30"
+    "date_last_seen": "2026-10-12"
   },
   "japheth llp::product owner / business analyst - cbdc": {
     "company": "Japheth LLP",
@@ -40510,7 +40510,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-10-10",
-    "date_last_seen": "2026-10-11"
+    "date_last_seen": "2026-10-12"
   },
   "eli lilly and company::product manager \u2013 enterprise ai operations & observability": {
     "company": "Eli Lilly and Company",
@@ -40582,7 +40582,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-10",
-    "date_last_seen": "2026-10-11"
+    "date_last_seen": "2026-10-12"
   },
   "landmark group::associate product owner": {
     "company": "Landmark Group",
@@ -40645,7 +40645,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-10",
-    "date_last_seen": "2026-10-11"
+    "date_last_seen": "2026-10-12"
   },
   "natwest group::technical product manager, agentic ai, vp": {
     "company": "NatWest Group",
@@ -40763,7 +40763,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-11",
-    "date_last_seen": "2026-10-11"
+    "date_last_seen": "2026-10-12"
   },
   "sanofi::product owner corporate": {
     "company": "Sanofi",
@@ -40812,5 +40812,214 @@
     ],
     "date_found": "2026-10-11",
     "date_last_seen": "2026-10-11"
+  },
+  "toolyt::product manager": {
+    "company": "Toolyt",
+    "title": "Product Manager",
+    "ats_score": 78,
+    "fit_score": 82,
+    "reasoning": "The candidate meets the 1\u2011year minimum (has 4 years) and no senior title triggers hard rules; the main gap is missing explicit roadmap and Confluence mentions.",
+    "missing_keywords": [
+      "roadmaps",
+      "Confluence",
+      "OKRs",
+      "A/B testing",
+      "bug fixing"
+    ],
+    "fit_flags": [
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "skills_match",
+      "ats_keyword_rich",
+      "domain_match"
+    ],
+    "date_found": "2026-10-12",
+    "date_last_seen": "2026-10-12"
+  },
+  "abbvie::aa product manager": {
+    "company": "AbbVie",
+    "title": "AA Product Manager",
+    "ats_score": 58,
+    "fit_score": 48,
+    "reasoning": "Hard rules pass, but the resume lacks many marketing\u2011specific keywords and brand\u2011focused experience required for the role, leading to a modest ATS score and a lower fit score.",
+    "missing_keywords": [
+      "brand strategy",
+      "product launch planning",
+      "campaign development",
+      "multi\u2011channel marketing",
+      "KPIs",
+      "performance tracking",
+      "customer insight",
+      "A/B testing"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-10-12",
+    "date_last_seen": "2026-10-12"
+  },
+  "aimleap::product manager - ai/ saas products": {
+    "company": "AIMLEAP",
+    "title": "Product Manager - AI/ SaaS Products",
+    "ats_score": 62,
+    "fit_score": 78,
+    "reasoning": "The candidate meets the 4\u2011year experience requirement and has relevant SaaS and GenAI experience, but the resume lacks several core JD tools and methodologies, lowering the ATS score.",
+    "missing_keywords": [
+      "Mixpanel",
+      "Amplitude",
+      "PostHog",
+      "GA4",
+      "Looker Studio",
+      "Tableau",
+      "Confluence",
+      "REST APIs",
+      "API monetization",
+      "pricing strategy"
+    ],
+    "fit_flags": [
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "skills_match",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-10-12",
+    "date_last_seen": "2026-10-12"
+  },
+  "goreach::product manager": {
+    "company": "GoReach",
+    "title": "Product Manager",
+    "ats_score": 25,
+    "fit_score": 25,
+    "reasoning": "The JD specifies a Senior Product Manager role, triggering the senior title hard rule, so both scores must be below 30; the resume lacks senior\u2011level keywords such as \"lead product strategy\".",
+    "missing_keywords": [
+      "KYC",
+      "risk profiling",
+      "financial compliance",
+      "AI\u2011first conversational product",
+      "mutual funds"
+    ],
+    "fit_flags": [
+      "senior_role",
+      "skills_gap"
+    ],
+    "date_found": "2026-10-12",
+    "date_last_seen": "2026-10-12"
+  },
+  "2070 health::product manager - logistics and fulfillment": {
+    "company": "2070 Health",
+    "title": "Product Manager - Logistics and Fulfillment",
+    "ats_score": 52,
+    "fit_score": 55,
+    "reasoning": "The candidate meets the 4\u2011year experience requirement, but the resume lacks many logistics\u2011specific keywords and domain experience, leading to a modest ATS score and only a moderate fit.",
+    "missing_keywords": [
+      "order management",
+      "delivery partner integrations",
+      "reverse logistics",
+      "3PL integration",
+      "SLA tracking",
+      "exception queues",
+      "member\u2011facing delivery experience",
+      "prescription\u2011linked workflow",
+      "cost per order"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-10-12",
+    "date_last_seen": "2026-10-12"
+  },
+  "karle infra pvt. ltd.::nutra & herbal- research and development product manager": {
+    "company": "Karle Infra Pvt. Ltd.",
+    "title": "Nutra & Herbal- Research and Development Product Manager",
+    "ats_score": 38,
+    "fit_score": 42,
+    "reasoning": "Hard rules pass, but the resume contains few of the domain-specific keywords required for a Nutra & Herbal R&D role, resulting in low ATS and fit scores; the biggest gap is the lack of any R&D or nutraceutical terminology.",
+    "missing_keywords": [
+      "nutraceutical product development",
+      "herbal formulation",
+      "regulatory compliance (e.g., FSSAI, FDA)",
+      "clinical trial management",
+      "supply chain optimization for consumables",
+      "quality assurance (QA) protocols",
+      "market research for consumer health products",
+      "product lifecycle management in pharma"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-10-12",
+    "date_last_seen": "2026-10-12"
+  },
+  "galaxeye::associate product manager - mission systems": {
+    "company": "GalaxEye",
+    "title": "Associate Product Manager - Mission Systems",
+    "ats_score": 38,
+    "fit_score": 42,
+    "reasoning": "Hard rules are satisfied, but the resume lacks most aerospace-specific keywords and domain experience, resulting in low ATS and fit scores; the biggest gap is the absence of mission analysis tools like STK and Python scripting.",
+    "missing_keywords": [
+      "STK",
+      "Python scripting for mission analysis",
+      "Orbital mechanics",
+      "RFI/RFP/tender response process",
+      "Compliance matrix",
+      "Trade studies",
+      "ConOps",
+      "Ground segment architecture"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-10-12",
+    "date_last_seen": "2026-10-12"
+  },
+  "cutshort::product manager 2": {
+    "company": "Cutshort",
+    "title": "Product Manager 2",
+    "ats_score": 68,
+    "fit_score": 65,
+    "reasoning": "The candidate meets the 4\u2011year experience requirement and title level, but the resume lacks several core fintech and analytics keywords, lowering the ATS score; the biggest gap is the absence of explicit A/B testing and API experience.",
+    "missing_keywords": [
+      "A/B testing",
+      "Excel / Google Sheets",
+      "API integrations",
+      "Product roadmaps",
+      "OKRs or RICE prioritization",
+      "Fintech domain experience",
+      "Metrics\u2011driven optimization"
+    ],
+    "fit_flags": [
+      "strong_saas_fit",
+      "skills_match",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-10-12",
+    "date_last_seen": "2026-10-12"
+  },
+  "raveone consultants::toys product manager": {
+    "company": "Raveone Consultants",
+    "title": "Toys Product Manager",
+    "ats_score": 62,
+    "fit_score": 45,
+    "reasoning": "Hard rules pass, but the resume lacks many toy\u2011specific keywords and domain experience, lowering both scores; the biggest gap is the absence of toy industry and supplier management terms.",
+    "missing_keywords": [
+      "toy industry",
+      "supplier management",
+      "marketing strategy",
+      "industry standards compliance",
+      "consumer research",
+      "product launch metrics"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-10-12",
+    "date_last_seen": "2026-10-12"
   }
 }
