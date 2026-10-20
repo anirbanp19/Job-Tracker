@@ -14542,7 +14542,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-10",
-    "date_last_seen": "2026-10-19"
+    "date_last_seen": "2026-10-20"
   },
   "ebay::product manager \u2013 tax platform": {
     "company": "eBay",
@@ -18397,7 +18397,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-06-25",
-    "date_last_seen": "2026-09-18"
+    "date_last_seen": "2026-10-20"
   },
   "accedepro private limited::product manager (observability) | 4-6 y | bangalore (hybrid) | quick starter |": {
     "company": "Accedepro Private Limited",
@@ -23353,7 +23353,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-07-14",
-    "date_last_seen": "2026-10-13"
+    "date_last_seen": "2026-10-20"
   },
   "thomson reuters::technical product manager, ciam": {
     "company": "Thomson Reuters",
@@ -27542,7 +27542,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-03",
-    "date_last_seen": "2026-10-09"
+    "date_last_seen": "2026-10-20"
   },
   "deltek::ai first product manager": {
     "company": "Deltek",
@@ -31295,7 +31295,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-08-21",
-    "date_last_seen": "2026-09-23"
+    "date_last_seen": "2026-10-20"
   },
   "pixxel::image product manager": {
     "company": "Pixxel",
@@ -35237,7 +35237,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-09-11",
-    "date_last_seen": "2026-09-11"
+    "date_last_seen": "2026-10-20"
   },
   "genpact::product manager": {
     "company": "Genpact",
@@ -39106,7 +39106,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-05",
-    "date_last_seen": "2026-10-19"
+    "date_last_seen": "2026-10-20"
   },
   "snapmint::product manager - seller experience": {
     "company": "Snapmint",
@@ -42574,7 +42574,7 @@
       "skills_gap"
     ],
     "date_found": "2026-10-17",
-    "date_last_seen": "2026-10-19"
+    "date_last_seen": "2026-10-20"
   },
   "mott macdonald::people technology service and experience product manager": {
     "company": "Mott MacDonald",
@@ -42599,7 +42599,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-18",
-    "date_last_seen": "2026-10-19"
+    "date_last_seen": "2026-10-20"
   },
   "linc limited::product manager": {
     "company": "Linc Limited",
@@ -42624,7 +42624,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-18",
-    "date_last_seen": "2026-10-19"
+    "date_last_seen": "2026-10-20"
   },
   "google::product manager, google pay": {
     "company": "Google",
@@ -42670,7 +42670,7 @@
       "skills_match"
     ],
     "date_found": "2026-10-19",
-    "date_last_seen": "2026-10-19"
+    "date_last_seen": "2026-10-20"
   },
   "ren3::product manager, enterprise ai platform (bengaluru)": {
     "company": "ReN3",
@@ -42697,7 +42697,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-19",
-    "date_last_seen": "2026-10-19"
+    "date_last_seen": "2026-10-20"
   },
   "aimleap::associate product manager - ai/ saas products": {
     "company": "AIMLEAP",
@@ -42724,7 +42724,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-19",
-    "date_last_seen": "2026-10-19"
+    "date_last_seen": "2026-10-20"
   },
   "profound.me::product manager (agentic saas, 70l, 6+ years)": {
     "company": "profound.me",
@@ -42789,7 +42789,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-19",
-    "date_last_seen": "2026-10-19"
+    "date_last_seen": "2026-10-20"
   },
   "syngenta::product specialist(product manager)": {
     "company": "Syngenta",
@@ -42811,5 +42811,74 @@
     ],
     "date_found": "2026-10-19",
     "date_last_seen": "2026-10-19"
+  },
+  "hegde fertility::product manager trainer \u2013 fertility services": {
+    "company": "Hegde Fertility",
+    "title": "Product Manager Trainer \u2013 Fertility Services",
+    "ats_score": 34,
+    "fit_score": 38,
+    "reasoning": "Hard rules pass, but the resume contains almost none of the fertility\u2011service, sales\u2011training, and medical\u2011domain keywords required, resulting in a low ATS score; the biggest gap is the absence of any referral\u2011growth or HCP\u2011engagement terminology.",
+    "missing_keywords": [
+      "referral growth",
+      "sales training completion rates",
+      "HCP engagement",
+      "scientific pitch certification",
+      "OB\u2011GYN presentations",
+      "fertility clinic domain knowledge"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-10-20",
+    "date_last_seen": "2026-10-20"
+  },
+  "ekshvaku tech innovations::product owner - us healthcare and enterprise saas": {
+    "company": "Ekshvaku Tech Innovations",
+    "title": "Product Owner - US Healthcare and Enterprise SAAS",
+    "ats_score": 68,
+    "fit_score": 65,
+    "reasoning": "No hard rule violations; the resume aligns moderately with the Product Owner role but lacks healthcare-specific terminology, which is the biggest keyword gap.",
+    "missing_keywords": [
+      "Healthcare compliance",
+      "HIPAA",
+      "EHR integration",
+      "OKRs",
+      "A/B testing"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-10-20",
+    "date_last_seen": "2026-10-20"
+  },
+  "cin7::product manager, ai": {
+    "company": "Cin7",
+    "title": "Product Manager, AI",
+    "ats_score": 55,
+    "fit_score": 78,
+    "reasoning": "Hard rules pass (4 years experience, no senior title). ATS score is moderate due to missing many JD-specific AI and product management keywords; the biggest gap is the lack of terms like forecasting, privacy compliance, and cost optimization.",
+    "missing_keywords": [
+      "forecasting",
+      "data entry automation",
+      "AI model evaluation",
+      "privacy compliance",
+      "cost optimization",
+      "OKRs",
+      "A/B testing",
+      "Snowflake",
+      "Mixpanel",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "domain_match"
+    ],
+    "date_found": "2026-10-20",
+    "date_last_seen": "2026-10-20"
   }
 }
