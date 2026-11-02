@@ -9387,7 +9387,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-23",
-    "date_last_seen": "2026-06-14"
+    "date_last_seen": "2026-11-02"
   },
   "inmobi advertising::product manager- ml decision systems (demand side platform).": {
     "company": "InMobi Advertising",
@@ -14470,7 +14470,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-10",
-    "date_last_seen": "2026-11-01"
+    "date_last_seen": "2026-11-02"
   },
   "domnic lewis::product manager procurement": {
     "company": "Domnic Lewis",
@@ -14542,7 +14542,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-10",
-    "date_last_seen": "2026-11-01"
+    "date_last_seen": "2026-11-02"
   },
   "ebay::product manager \u2013 tax platform": {
     "company": "eBay",
@@ -21257,7 +21257,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-06",
-    "date_last_seen": "2026-09-26"
+    "date_last_seen": "2026-11-02"
   },
   "innova esi::technical product owner (clinical platforms)": {
     "company": "Innova ESI",
@@ -33127,7 +33127,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-30",
-    "date_last_seen": "2026-10-15"
+    "date_last_seen": "2026-11-02"
   },
   "weekday ai (yc w21)::founding product manager": {
     "company": "Weekday AI (YC W21)",
@@ -38907,7 +38907,7 @@
       "skills_match"
     ],
     "date_found": "2026-10-03",
-    "date_last_seen": "2026-10-03"
+    "date_last_seen": "2026-11-02"
   },
   "techdome::product manager (ai & software delivery)": {
     "company": "Techdome",
@@ -39352,7 +39352,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-06",
-    "date_last_seen": "2026-10-31"
+    "date_last_seen": "2026-11-02"
   },
   "confidential careers::technical product manager": {
     "company": "Confidential Careers",
@@ -40317,7 +40317,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-09",
-    "date_last_seen": "2026-11-01"
+    "date_last_seen": "2026-11-02"
   },
   "magicmind technologies::product manager": {
     "company": "Magicmind Technologies",
@@ -44223,7 +44223,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-28",
-    "date_last_seen": "2026-10-31"
+    "date_last_seen": "2026-11-02"
   },
   "intellipaat::associate product manager": {
     "company": "Intellipaat",
@@ -44317,7 +44317,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-10-29",
-    "date_last_seen": "2026-11-01"
+    "date_last_seen": "2026-11-02"
   },
   "acl digital::product owner- railway rolling stock": {
     "company": "ACL Digital",
@@ -44560,7 +44560,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-30",
-    "date_last_seen": "2026-11-01"
+    "date_last_seen": "2026-11-02"
   },
   "plugin record::product manager": {
     "company": "Plugin Record",
@@ -44701,7 +44701,7 @@
       "skills_match"
     ],
     "date_found": "2026-10-31",
-    "date_last_seen": "2026-11-01"
+    "date_last_seen": "2026-11-02"
   },
   "ebay::product manager, billing platform": {
     "company": "eBay",
@@ -44771,7 +44771,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-10-31",
-    "date_last_seen": "2026-11-01"
+    "date_last_seen": "2026-11-02"
   },
   "google::product manager, geo, google maps, ugc contributor success": {
     "company": "Google",
@@ -44815,7 +44815,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-11-01",
-    "date_last_seen": "2026-11-01"
+    "date_last_seen": "2026-11-02"
   },
   "lpl financial global capability center::avp, data product owner \u2013 wealth management participant data domain": {
     "company": "LPL Financial Global Capability Center",
@@ -44862,7 +44862,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-11-01",
-    "date_last_seen": "2026-11-01"
+    "date_last_seen": "2026-11-02"
   },
   "syngenta::product specialist (product manager) - protected green house crops": {
     "company": "Syngenta",
@@ -44887,5 +44887,116 @@
     ],
     "date_found": "2026-11-01",
     "date_last_seen": "2026-11-01"
+  },
+  "quectel::product manager (short-range)": {
+    "company": "Quectel",
+    "title": "Product Manager (Short-range)",
+    "ats_score": 35,
+    "fit_score": 45,
+    "reasoning": "The resume lacks many JD-specific sales, marketing, and CRM keywords, resulting in a low ATS match; the candidate's SaaS/GenAI background does not align well with the short-range hardware focus of the role.",
+    "missing_keywords": [
+      "Salesforce",
+      "CRM",
+      "Microsoft Office",
+      "customer-facing experience",
+      "channel partners",
+      "product training materials",
+      "competitive sales guides"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap"
+    ],
+    "date_found": "2026-11-02",
+    "date_last_seen": "2026-11-02"
+  },
+  "ion::product manager": {
+    "company": "ION",
+    "title": "Product Manager",
+    "ats_score": 78,
+    "fit_score": 55,
+    "reasoning": "The resume meets the hard rules and contains many relevant keywords, but lacks finance\u2011specific terms and process\u2011design language, lowering the fit.",
+    "missing_keywords": [
+      "high frequency trading",
+      "process design",
+      "test strategy",
+      "spreadsheets",
+      "financial markets",
+      "risk management",
+      "reporting tools"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "strong_saas_fit",
+      "skills_match"
+    ],
+    "date_found": "2026-11-02",
+    "date_last_seen": "2026-11-02"
+  },
+  "teradata::teradata cx apps product manager": {
+    "company": "Teradata",
+    "title": "Teradata CX Apps Product Manager",
+    "ats_score": 68,
+    "fit_score": 74,
+    "reasoning": "The resume meets the 4\u2011year experience requirement and the title level aligns with an associate product manager role, but it lacks several JD\u2011specific keywords, lowering the ATS score; the strongest gap is the absence of explicit analytics and experimentation tools.",
+    "missing_keywords": [
+      "A/B testing",
+      "OKRs",
+      "Mixpanel",
+      "Snowflake",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "skills_match"
+    ],
+    "date_found": "2026-11-02",
+    "date_last_seen": "2026-11-02"
+  },
+  "johnson controls::product manager ii": {
+    "company": "Johnson Controls",
+    "title": "Product Manager II",
+    "ats_score": 82,
+    "fit_score": 86,
+    "reasoning": "The candidate meets the 4\u2011year experience requirement and the title aligns with the PM level, yielding strong ATS and fit scores; the most notable gap is the absence of common product metrics and analytics tools.",
+    "missing_keywords": [
+      "OKRs",
+      "A/B testing",
+      "Mixpanel",
+      "Snowflake",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-11-02",
+    "date_last_seen": "2026-11-02"
+  },
+  "uplers::product manager / client implementation partner": {
+    "company": "Uplers",
+    "title": "Product Manager / Client Implementation Partner",
+    "ats_score": 55,
+    "fit_score": 68,
+    "reasoning": "The resume meets the experience requirement and seniority constraints, but lacks several core JD keywords such as API integration and LLM pipelines, lowering the ATS score; the strongest gap is the missing API integration terminology.",
+    "missing_keywords": [
+      "API integration",
+      "LLM pipelines",
+      "Agentic AI",
+      "pre\u2011sales scoping",
+      "risk management",
+      "client onboarding playbook",
+      "enterprise CRM integration"
+    ],
+    "fit_flags": [
+      "skills_match",
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-11-02",
+    "date_last_seen": "2026-11-02"
   }
 }
