@@ -14470,7 +14470,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-06-10",
-    "date_last_seen": "2026-11-02"
+    "date_last_seen": "2026-11-03"
   },
   "domnic lewis::product manager procurement": {
     "company": "Domnic Lewis",
@@ -26601,7 +26601,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-29",
-    "date_last_seen": "2026-10-25"
+    "date_last_seen": "2026-11-03"
   },
   "hackajob::product owner": {
     "company": "hackajob",
@@ -26945,7 +26945,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-07-31",
-    "date_last_seen": "2026-08-23"
+    "date_last_seen": "2026-11-03"
   },
   "almabetter::product manager": {
     "company": "AlmaBetter",
@@ -28286,7 +28286,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-06",
-    "date_last_seen": "2026-10-14"
+    "date_last_seen": "2026-11-03"
   },
   "verse innovation::product manager": {
     "company": "VerSe Innovation",
@@ -31650,7 +31650,7 @@
       "strong_genai_fit"
     ],
     "date_found": "2026-08-22",
-    "date_last_seen": "2026-08-24"
+    "date_last_seen": "2026-11-03"
   },
   "nutanix::product manager": {
     "company": "Nutanix",
@@ -32436,7 +32436,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-26",
-    "date_last_seen": "2026-09-27"
+    "date_last_seen": "2026-11-03"
   },
   "yubi::product manager": {
     "company": "Yubi",
@@ -33127,7 +33127,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-08-30",
-    "date_last_seen": "2026-11-02"
+    "date_last_seen": "2026-11-03"
   },
   "weekday ai (yc w21)::founding product manager": {
     "company": "Weekday AI (YC W21)",
@@ -40535,7 +40535,7 @@
       "domain_match"
     ],
     "date_found": "2026-10-10",
-    "date_last_seen": "2026-11-01"
+    "date_last_seen": "2026-11-03"
   },
   "ubs::product manager, employee channels, platforms & ai utilities": {
     "company": "UBS",
@@ -41392,7 +41392,7 @@
       "skills_match"
     ],
     "date_found": "2026-10-13",
-    "date_last_seen": "2026-10-15"
+    "date_last_seen": "2026-11-03"
   },
   "toast::product manager": {
     "company": "Toast",
@@ -41545,7 +41545,7 @@
       "skills_match"
     ],
     "date_found": "2026-10-13",
-    "date_last_seen": "2026-10-13"
+    "date_last_seen": "2026-11-03"
   },
   "bitdelta india::product manager: wallets & payments infrastructure": {
     "company": "BitDelta India",
@@ -42724,7 +42724,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-10-19",
-    "date_last_seen": "2026-10-29"
+    "date_last_seen": "2026-11-03"
   },
   "profound.me::product manager (agentic saas, 70l, 6+ years)": {
     "company": "profound.me",
@@ -42744,7 +42744,7 @@
       "skills_gap"
     ],
     "date_found": "2026-10-19",
-    "date_last_seen": "2026-10-19"
+    "date_last_seen": "2026-11-03"
   },
   "ikea::product owner - total rewards": {
     "company": "IKEA",
@@ -44317,7 +44317,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-10-29",
-    "date_last_seen": "2026-11-02"
+    "date_last_seen": "2026-11-03"
   },
   "acl digital::product owner- railway rolling stock": {
     "company": "ACL Digital",
@@ -44815,7 +44815,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-11-01",
-    "date_last_seen": "2026-11-02"
+    "date_last_seen": "2026-11-03"
   },
   "lpl financial global capability center::avp, data product owner \u2013 wealth management participant data domain": {
     "company": "LPL Financial Global Capability Center",
@@ -44908,7 +44908,7 @@
       "skills_gap"
     ],
     "date_found": "2026-11-02",
-    "date_last_seen": "2026-11-02"
+    "date_last_seen": "2026-11-03"
   },
   "ion::product manager": {
     "company": "ION",
@@ -44931,7 +44931,7 @@
       "skills_match"
     ],
     "date_found": "2026-11-02",
-    "date_last_seen": "2026-11-02"
+    "date_last_seen": "2026-11-03"
   },
   "teradata::teradata cx apps product manager": {
     "company": "Teradata",
@@ -44998,5 +44998,212 @@
     ],
     "date_found": "2026-11-02",
     "date_last_seen": "2026-11-02"
+  },
+  "lab49::product manager": {
+    "company": "Lab49",
+    "title": "Product Manager",
+    "ats_score": 78,
+    "fit_score": 55,
+    "reasoning": "Hard rules pass (4 years experience, no senior title requirement). ATS score is solid due to strong keyword overlap and relevant tools, but missing finance\u2011specific terms lowers it slightly; fit score is moderate because the candidate's domain (SaaS/travel/FMCG) does not align closely with the high\u2011frequency trading focus of the role.",
+    "missing_keywords": [
+      "high frequency trading",
+      "financial services",
+      "trading systems",
+      "process design",
+      "test strategy",
+      "spreadsheets",
+      "OKRs",
+      "risk management"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-11-03",
+    "date_last_seen": "2026-11-03"
+  },
+  "ion group::product manager": {
+    "company": "ION Group",
+    "title": "Product Manager",
+    "ats_score": 62,
+    "fit_score": 55,
+    "reasoning": "Hard rules pass (4 years experience, no senior title requirement). The resume matches many general product management terms but lacks finance\u2011specific keywords, lowering both scores.",
+    "missing_keywords": [
+      "high frequency trading",
+      "financial markets",
+      "trading systems",
+      "risk management",
+      "OKRs",
+      "data visualization (e.g., Tableau)",
+      "SQL reporting"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-11-03",
+    "date_last_seen": "2026-11-03"
+  },
+  "zoca::product manager": {
+    "company": "Zoca",
+    "title": "Product Manager",
+    "ats_score": 78,
+    "fit_score": 72,
+    "reasoning": "The resume meets the hard rules (4 years experience, no senior title) and contains many relevant AI and product management keywords, but lacks several JD\u2011specific terms such as the agent types and measurement frameworks.",
+    "missing_keywords": [
+      "Lead Generation Agent",
+      "Retention/Loyalty Agent",
+      "Local SEO Agent",
+      "A/B testing",
+      "OKRs",
+      "model accuracy",
+      "automation reliability",
+      "customer satisfaction metrics",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-11-03",
+    "date_last_seen": "2026-11-03"
+  },
+  "soch street::product manager": {
+    "company": "Soch Street",
+    "title": "Product Manager",
+    "ats_score": 78,
+    "fit_score": 71,
+    "reasoning": "The resume meets the 4\u2011year experience requirement and the title is close enough to the target role, but it lacks several core IAM and Windows\u2011specific terms required by the JD, lowering both scores.",
+    "missing_keywords": [
+      "SSO / MFA",
+      "Active Directory / Entra ID",
+      "Intune / MDM",
+      "Windows deployment or administration workflows",
+      "pilot planning and deployment readiness"
+    ],
+    "fit_flags": [
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "skills_gap"
+    ],
+    "date_found": "2026-11-03",
+    "date_last_seen": "2026-11-03"
+  },
+  "orangemint technologies pvt ltd::associate product manager": {
+    "company": "Orangemint Technologies Pvt Ltd",
+    "title": "Associate Product Manager",
+    "ats_score": 78,
+    "fit_score": 81,
+    "reasoning": "Hard rules are satisfied (4 years meets the 1\u20113 year range and title matches). The resume covers most JD keywords but lacks explicit API/system architecture terms.",
+    "missing_keywords": [
+      "API design",
+      "system architecture",
+      "OKRs",
+      "A/B testing",
+      "Mixpanel"
+    ],
+    "fit_flags": [
+      "strong_genai_fit",
+      "strong_saas_fit",
+      "ats_keyword_rich",
+      "domain_match"
+    ],
+    "date_found": "2026-11-03",
+    "date_last_seen": "2026-11-03"
+  },
+  "eli lilly and company::technical product manager \u2013 lilly usa data analytics & ai": {
+    "company": "Eli Lilly and Company",
+    "title": "Technical Product Manager \u2013 Lilly USA Data Analytics & AI",
+    "ats_score": 78,
+    "fit_score": 65,
+    "reasoning": "The resume meets the hard rules and contains many relevant keywords, but the candidate's domain (travel tech, FMCG, renewable energy SaaS) only partially aligns with Lilly's commercial sales data analytics focus, leading to a moderate fit score.",
+    "missing_keywords": [
+      "Snowflake",
+      "A/B testing",
+      "OKRs",
+      "Data governance",
+      "Commercial sales analytics",
+      "Customer segmentation",
+      "Dashboarding (e.g., Looker)",
+      "SQL performance tuning"
+    ],
+    "fit_flags": [
+      "skills_match",
+      "domain_mismatch",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-11-03",
+    "date_last_seen": "2026-11-03"
+  },
+  "stonex group inc.::product manager - payments": {
+    "company": "StoneX Group Inc.",
+    "title": "Product Manager - Payments",
+    "ats_score": 68,
+    "fit_score": 62,
+    "reasoning": "The candidate meets the 4\u2011year experience requirement and title level, but the resume lacks several payment\u2011specific terms, lowering the ATS score; the biggest keyword gap is the absence of payment\u2011processing terminology.",
+    "missing_keywords": [
+      "payment processing",
+      "PCI compliance",
+      "transaction monitoring",
+      "A/B testing",
+      "OKRs",
+      "Mixpanel",
+      "Snowflake",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit"
+    ],
+    "date_found": "2026-11-03",
+    "date_last_seen": "2026-11-03"
+  },
+  "redpin::product manager - fintech >": {
+    "company": "Redpin",
+    "title": "Product Manager - FinTech >",
+    "ats_score": 65,
+    "fit_score": 55,
+    "reasoning": "The candidate meets the 3\u2011year minimum (has 4 years) and no senior title rule is triggered, but the resume lacks many fintech\u2011specific terms, lowering both scores.",
+    "missing_keywords": [
+      "ACH",
+      "RTGS",
+      "payment gateway integration (Stripe, Adyen, PayPal)",
+      "ledger reconciliation",
+      "refund processing",
+      "settlement APIs"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-11-03",
+    "date_last_seen": "2026-11-03"
+  },
+  "skills agency::it - junior product owner": {
+    "company": "Skills Agency",
+    "title": "IT - Junior Product Owner",
+    "ats_score": 78,
+    "fit_score": 82,
+    "reasoning": "The resume meets the experience and seniority requirements and includes many JD keywords, but lacks explicit mentions of backlog management, Scrum, daily stand-ups, and client relationship handling.",
+    "missing_keywords": [
+      "backlog grooming",
+      "Scrum",
+      "daily stand-up",
+      "client relationship management",
+      "OKRs"
+    ],
+    "fit_flags": [
+      "domain_match",
+      "skills_match",
+      "strong_saas_fit",
+      "ats_keyword_rich"
+    ],
+    "date_found": "2026-11-03",
+    "date_last_seen": "2026-11-03"
   }
 }
