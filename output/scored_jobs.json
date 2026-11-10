@@ -3319,7 +3319,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-05-10",
-    "date_last_seen": "2026-11-09"
+    "date_last_seen": "2026-11-10"
   },
   "sanofi::digital r&d lab equipment automation jr. product owner": {
     "company": "Sanofi",
@@ -4129,7 +4129,7 @@
       "skills_gap"
     ],
     "date_found": "2026-05-13",
-    "date_last_seen": "2026-11-09"
+    "date_last_seen": "2026-11-10"
   },
   "nykaa::product manager ii - personalisation": {
     "company": "Nykaa",
@@ -8534,7 +8534,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-21",
-    "date_last_seen": "2026-09-29"
+    "date_last_seen": "2026-11-10"
   },
   "building ventures::product manager (ai/ml)": {
     "company": "Building Ventures",
@@ -9708,7 +9708,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-05-23",
-    "date_last_seen": "2026-09-29"
+    "date_last_seen": "2026-11-10"
   },
   "ust::product owner": {
     "company": "UST",
@@ -31090,7 +31090,7 @@
       "domain_mismatch"
     ],
     "date_found": "2026-08-20",
-    "date_last_seen": "2026-11-07"
+    "date_last_seen": "2026-11-10"
   },
   "broadridge india::product owner": {
     "company": "Broadridge India",
@@ -37199,7 +37199,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-09-23",
-    "date_last_seen": "2026-11-09"
+    "date_last_seen": "2026-11-10"
   },
   "innova esi::product owner \u2013 pbm / pharmacy benefits": {
     "company": "Innova ESI",
@@ -37406,7 +37406,7 @@
       "domain_match"
     ],
     "date_found": "2026-09-24",
-    "date_last_seen": "2026-11-09"
+    "date_last_seen": "2026-11-10"
   },
   "worldpay::product manager (digital products, payments) - pune \u2013 7+ years exp": {
     "company": "Worldpay",
@@ -37801,7 +37801,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-09-26",
-    "date_last_seen": "2026-11-09"
+    "date_last_seen": "2026-11-10"
   },
   "recruiterflow::associate product manager": {
     "company": "Recruiterflow",
@@ -44317,7 +44317,7 @@
       "ats_keyword_rich"
     ],
     "date_found": "2026-10-29",
-    "date_last_seen": "2026-11-09"
+    "date_last_seen": "2026-11-10"
   },
   "acl digital::product owner- railway rolling stock": {
     "company": "ACL Digital",
@@ -45850,7 +45850,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-11-09",
-    "date_last_seen": "2026-11-09"
+    "date_last_seen": "2026-11-10"
   },
   "zexovo::product manager \u2013 hotelos": {
     "company": "Zexovo",
@@ -45876,7 +45876,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-11-09",
-    "date_last_seen": "2026-11-09"
+    "date_last_seen": "2026-11-10"
   },
   "siemens healthineers::technical product manager - lab automation and healthcare solutions / workflow consultant": {
     "company": "Siemens Healthineers",
@@ -45899,7 +45899,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-11-09",
-    "date_last_seen": "2026-11-09"
+    "date_last_seen": "2026-11-10"
   },
   "muthoot finance ltd. - india::product manager digital department": {
     "company": "Muthoot Finance Ltd. - India",
@@ -45923,7 +45923,7 @@
       "ats_keyword_poor"
     ],
     "date_found": "2026-11-09",
-    "date_last_seen": "2026-11-09"
+    "date_last_seen": "2026-11-10"
   },
   "smallcase::product manager - partner platforms": {
     "company": "smallcase",
@@ -45948,7 +45948,7 @@
       "strong_saas_fit"
     ],
     "date_found": "2026-11-09",
-    "date_last_seen": "2026-11-09"
+    "date_last_seen": "2026-11-10"
   },
   "wells fargo::product owner: market maker & options clearing (vp)": {
     "company": "Wells Fargo",
@@ -45971,5 +45971,148 @@
     ],
     "date_found": "2026-11-09",
     "date_last_seen": "2026-11-09"
+  },
+  "global payments inc.::product manager - apis, product-market fit, gateways, developer portals, payments - 4-7 years - bangalore": {
+    "company": "Global Payments Inc.",
+    "title": "Product Manager - APIs, Product-market fit, Gateways, Developer Portals, Payments - 4-7 Years - Bangalore",
+    "ats_score": 58,
+    "fit_score": 62,
+    "reasoning": "Hard rules pass (4 years experience, no senior title requirement). ATS score is moderate due to missing core API/payment keywords; the biggest gap is lack of any API/webhook terminology.",
+    "missing_keywords": [
+      "APIs",
+      "Webhooks",
+      "Developer portal",
+      "Payments",
+      "API gateway",
+      "KPIs",
+      "OKRs"
+    ],
+    "fit_flags": [
+      "skills_match",
+      "domain_mismatch",
+      "strong_saas_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-11-10",
+    "date_last_seen": "2026-11-10"
+  },
+  "krafton india::product manager": {
+    "company": "KRAFTON India",
+    "title": "Product Manager",
+    "ats_score": 68,
+    "fit_score": 55,
+    "reasoning": "Hard rules pass (4 years experience, no senior title requirement). ATS score is moderate because core product management terms appear but many gaming\u2011specific keywords are missing; fit score is lower due to domain mismatch with gaming.",
+    "missing_keywords": [
+      "live\u2011ops execution",
+      "player data analysis",
+      "monetization metrics",
+      "event and reward system management",
+      "gaming industry experience",
+      "A/B testing",
+      "MAU/DAU growth",
+      "roadmap for India\u2011facing game features"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor",
+      "strong_saas_fit"
+    ],
+    "date_found": "2026-11-10",
+    "date_last_seen": "2026-11-10"
+  },
+  "true blue hr consultants::product owner -rcm us healthcare": {
+    "company": "True Blue HR Consultants",
+    "title": "Product Owner -RCM US Healthcare",
+    "ats_score": 72,
+    "fit_score": 78,
+    "reasoning": "No hard rule violations; the candidate meets the 4\u2011year experience threshold and is located in Bengaluru. The resume contains many relevant SaaS and GenAI terms but lacks several typical product\u2011owner keywords.",
+    "missing_keywords": [
+      "OKRs",
+      "A/B testing",
+      "RICE prioritization",
+      "NPS improvement",
+      "PLG strategy"
+    ],
+    "fit_flags": [
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "skills_match"
+    ],
+    "date_found": "2026-11-10",
+    "date_last_seen": "2026-11-10"
+  },
+  "mott macdonald::product manager - people services": {
+    "company": "Mott MacDonald",
+    "title": "Product Manager - People Services",
+    "ats_score": 48,
+    "fit_score": 55,
+    "reasoning": "Hard rules pass, but the resume lacks most of the specific HR tech tools and terminology from the JD, resulting in a low ATS match; the biggest keyword gap is the absence of ServiceNow/HRSD.",
+    "missing_keywords": [
+      "ServiceNow HRSD",
+      "Qualtrics",
+      "SAP SuccessFactors",
+      "OpenText",
+      "employee journey",
+      "case management",
+      "lifecycle automation",
+      "OKRs",
+      "NPS improvement"
+    ],
+    "fit_flags": [
+      "domain_mismatch",
+      "skills_gap",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-11-10",
+    "date_last_seen": "2026-11-10"
+  },
+  "edit lobby::product manager": {
+    "company": "Edit Lobby",
+    "title": "Product Manager",
+    "ats_score": 68,
+    "fit_score": 78,
+    "reasoning": "No hard rule violations; the resume covers many core product management terms but misses several JD-specific keywords like PRD and roadmap, lowering the ATS score. Strong SaaS and GenAI experience boosts the fit score.",
+    "missing_keywords": [
+      "Product roadmap",
+      "PRD (Product Requirements Document)",
+      "OKRs",
+      "A/B testing",
+      "User adoption metrics",
+      "NPS improvement",
+      "KPIs"
+    ],
+    "fit_flags": [
+      "strong_saas_fit",
+      "strong_genai_fit",
+      "skills_match",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-11-10",
+    "date_last_seen": "2026-11-10"
+  },
+  "kots::technical product owner / engineer": {
+    "company": "Kots",
+    "title": "Technical Product Owner / Engineer",
+    "ats_score": 60,
+    "fit_score": 68,
+    "reasoning": "Hard rules pass (4 years experience meets the 4\u2011year minimum). The resume misses several core JD keywords such as pull\u2011request review, GitHub, Angular/Python/AWS, and explicit testing\u2011cycle terminology.",
+    "missing_keywords": [
+      "pull request review",
+      "GitHub",
+      "Angular",
+      "Python",
+      "AWS",
+      "test plan / regression testing",
+      "rollback planning"
+    ],
+    "fit_flags": [
+      "skills_match",
+      "domain_match",
+      "strong_genai_fit",
+      "ats_keyword_poor"
+    ],
+    "date_found": "2026-11-10",
+    "date_last_seen": "2026-11-10"
   }
 }
